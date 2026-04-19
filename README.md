@@ -106,11 +106,11 @@ Synthetic Expense Dataset
 ---
 
 ## 🏗 System Architecture
-
+```
 Raw Data → Data Cleaning → Feature Engineering → Analysis → Visualization → Insights → Dashboard
-
+```
 ---
-
+```
 ## 📁 Project Structure
 
 EXPENSE TRACKER APP/
@@ -141,7 +141,7 @@ EXPENSE TRACKER APP/
 ├── app.py
 ├── main.py
 └── requirements.txt
-
+```
 ---
 
 ## ⚙ Installation & Setup
