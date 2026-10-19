@@ -1,189 +1,369 @@
-# Expense Tracker — Financial Analytics Dashboard
+# 💹 Expense Intelligence
 
-An end-to-end, portfolio-ready data application for exploring income, expenses,
-cash flow, spending behavior, category budgets, and data quality. The example
-dataset is synthetic and deterministic; it is not real customer or account data.
+### Personal Finance Analytics & Spending Intelligence
 
-## Features
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B)
+![Tests](https://img.shields.io/badge/Tests-pytest-0A9EDC)
+![Data](https://img.shields.io/badge/Data-Simulated-2DE2C5)
 
-- Reproducible 24-month synthetic transactions with stable IDs, multiple
-  simulated income sources, recurring bills, and realistic payment methods.
-- Shared CSV validation and cleaning with field aliases, positive amount
-  semantics, duplicate rules, and row-level removal summaries.
-- Streamlit dashboard with date/category/type/payment filters, INR KPIs,
-  spending charts, cash-flow trends, budgets, insights, and data-quality detail.
-- Responsive FinTech design system with source-status badges, local refresh
-  timestamp, same-duration KPI comparisons, Indian digit grouping, and filter reset.
-- Interactive Plotly cash-flow, expense, category, payment, weekday/category
-  heatmap, budget utilization, and anomaly-review charts.
-- Transaction search, sorting, pagination, and CSV export.
-- Session-only transaction entry. New entries are not persisted to disk/database.
-- Locally configured JSON budgets; a starter set is used until custom budgets
-  are saved.
-- Rule-based recurring-cost analysis, category IQR anomaly flags, and a labeled
-  moving-average baseline. The latter is a simple descriptive estimate, not a
-  trained prediction model.
-- Independent pytest coverage for data generation, cleaning, analytics, and
-  budget configuration.
+---
 
-## Architecture and data flow
+## 📌 Overview
 
-```text
-generate_data.py
-      │
-      ▼
-data/raw/transactions.csv ──► main.py / data_cleaning.py
-                                      │
-                                      ▼
-                         data/processed/transactions_cleaned.csv
-                                      │
-                   ┌──────────────────┴───────────────────┐
-                   ▼                                      ▼
-             app.py dashboard                  visualization.py charts
-```
+**Expense Intelligence** is an end-to-end personal finance analytics project
+built with Python, Pandas, Plotly, and Streamlit. It turns transaction data
+into an interactive dashboard for exploring income, expenses, cash flow,
+budgets, and spending patterns.
 
-| Path | Responsibility |
+The project includes a reproducible synthetic dataset and supports user-uploaded
+CSV files. It is a local analytics application—not a live banking service or
+an AI-powered financial adviser.
+
+---
+
+## 📊 Dashboard Preview
+
+Screenshots below were captured from the running dashboard:
+
+| Executive overview | Spending analytics |
 | --- | --- |
-| `src/expense_tracker/data_generator.py` | Deterministic synthetic-data API |
-| `src/expense_tracker/data_cleaning.py` | CSV schema aliases, validation, cleaning, quality summary |
-| `src/expense_tracker/analytics.py` | Metrics, monthly/category/payment/weekday analysis, budgets, recurrence, IQR outliers |
-| `src/expense_tracker/insights.py` | Explainable insight bundle |
-| `src/expense_tracker/forecasting.py` | Transparent trailing-average expense baseline |
-| `src/expense_tracker/budgets.py` | Validated local JSON budget storage |
-| `app.py` | Interactive dashboard; uploads stay in memory |
-| `main.py` | CLI preprocessing and printed data-quality/financial summaries |
-| `src/visualization.py` | Backward-compatible static chart output |
-| `tests/` | Automated unit tests independent of the Streamlit UI |
-
-## Dashboard preview
-
-Genuine screenshots captured from the running local dashboard are saved under
-[`assets/screenshots/`](assets/screenshots/):
-
-| Overview | Spending analytics |
-| --- | --- |
-| ![Expense Intelligence overview](assets/screenshots/overview.png) | ![Spending analytics charts](assets/screenshots/spending-analytics.png) |
+| ![Expense Intelligence executive overview](assets/screenshots/overview.png) | ![Spending analytics charts](assets/screenshots/spending-analytics.png) |
 
 | Budget intelligence | Transaction explorer |
 | --- | --- |
-| ![Budget utilization](assets/screenshots/budget-intelligence.png) | ![Transaction explorer](assets/screenshots/transaction-explorer.png) |
+| ![Budget utilization and alerts](assets/screenshots/budget-intelligence.png) | ![Searchable transaction explorer](assets/screenshots/transaction-explorer.png) |
 
-The app uses midnight navy surfaces with teal, cyan, violet, emerald, amber,
-and coral accents. It is a local analytics dashboard; no live bank connection
-is implied.
+---
 
-The existing `data/expenses.csv`, `data/cleaned_expenses.csv`, and
-`data/expenses_case2.csv` remain available as legacy examples. If the new
-generated raw file is absent, the CLI/dashboard can fall back to
-`data/expenses.csv` or `data/cleaned_expenses.csv` as appropriate.
+## 🛠 Problem
 
-## Dataset schema
+Transaction files can be difficult to use for day-to-day analysis:
 
-| Column | Meaning |
+- Raw CSV data is hard to interpret at a glance.
+- Inconsistent columns, invalid dates, and duplicate rows can distort totals.
+- Category and month-to-month patterns take time to discover manually.
+- Budgets, unusual transactions, and recurring costs are difficult to review in
+  static spreadsheets.
+
+## ✅ Solution
+
+Expense Intelligence provides a reusable data pipeline and interactive
+dashboard to:
+
+- Validate, normalize, and clean transactions with a row-quality summary.
+- Explore filtered income, expenses, balance, savings rate, and transaction
+  counts.
+- Visualize category, monthly, weekday, and payment-method patterns.
+- Compare spending with configurable monthly category budgets.
+- Review rule-based recurring costs and potential IQR outliers.
+- Search and export filtered transactions.
+
+---
+
+## 🏭 Industry Relevance
+
+| Area | Example application |
 | --- | --- |
-| `Transaction_ID` | Unique stable simulated transaction identifier |
-| `Date` | Calendar transaction date |
-| `Category` | Income source or spending category |
+| Personal finance | Understand spending and monthly cash flow |
+| FinTech analytics | Explore transaction categories and payment patterns |
+| Data engineering | Validate, standardize, and summarize CSV records |
+| Business intelligence | Monitor budgets, trends, and category metrics |
+| Data science portfolios | Demonstrate reproducible data generation, analysis, and visualization |
+
+## 📈 Project Outcomes
+
+- Reproducible, fixed-seed synthetic data generation.
+- Reusable cleaning and analytics functions separate from the UI.
+- Interactive visual analysis across seven dashboard sections.
+- Automated tests for the data pipeline, analytics, budgets, and UI helpers.
+
+All sample financial values are simulated and are not representative of a real
+person or account.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Language:** Python 3.10+
+- **Data processing:** Pandas, NumPy
+- **Interactive visualization:** Plotly
+- **Static visualization:** Matplotlib, Seaborn
+- **Dashboard:** Streamlit
+- **Testing:** pytest
+
+---
+
+## 📂 Dataset
+
+The default dataset is synthetic and deterministic:
+
+- **Transactions:** 1,920
+- **Coverage:** January 2024–December 2025 (24 months)
+- **Generation:** 80 transactions per month, using a fixed default seed
+- **Transaction types:** Income and Expense
+- **Income sources:** Salary, freelance work, and investment income
+- **Expense categories:** Groceries, housing, utilities, transport, healthcare,
+  dining, entertainment, shopping, subscriptions, education, travel, and
+  personal care
+- **Payment methods:** UPI, card, cash, bank transfer, and auto-debit
+
+### Transaction fields
+
+| Field | Description |
+| --- | --- |
+| `Transaction_ID` | Stable identifier for each generated transaction |
+| `Date` | Transaction date |
+| `Category` | Income source or expense category |
 | `Description` | Simulated transaction description |
-| `Amount` | Positive currency magnitude; `Type` determines direction |
+| `Amount` | Positive amount; `Type` determines whether it is income or expense |
 | `Type` | `Income` or `Expense` |
-| `Payment_Method` | Simulated payment method |
-| `Month`, `Month_Num`, `Weekday` | Derived during cleaning |
+| `Payment_Method` | Payment method |
+| `Month`, `Month_Num`, `Weekday` | Date features derived during cleaning |
 
-The default generator creates 1,920 rows (80/month) over 24 calendar months,
-starting January 2024. Pass a seed to `generate_transactions()` to reproduce an
-identical dataset. All values are simulated; no personal financial information
-is included.
+Amounts are stored as positive magnitudes. The `Type` field determines their
+cash-flow meaning; negative and zero amounts are rejected during cleaning.
 
-## Cleaning and validation rules
+---
 
-- Required fields are `Date`, `Category`, `Amount`, and `Type`; supported
-  aliases include `transaction_date`, `transaction_type`, `value`, and
-  `payment_mode`.
-- Headers are canonicalized before checking the schema. Conflicting aliases
-  that map to one canonical name are rejected.
-- Dates and numeric amounts are parsed with invalid values removed and counted.
-- Transaction types accept common labels such as debit/credit and outflow/inflow.
-- Category labels are trimmed and title-cased; missing descriptions and payment
-  methods are optional (`Unknown` for a missing payment method).
-- Exact duplicate rows are removed first. If a transaction ID is present,
-  repeated non-empty IDs are removed after the first occurrence.
-- Zero, negative, and non-numeric amounts are invalid. Amounts are positive
-  magnitudes; income and expenses are distinguished by `Type`.
-- The data-quality report shows input/valid/removed row counts, categorized
-  removal reasons, and original missing-value counts. Inputs are not overwritten.
+## 🏗️ Architecture
 
-## Analytics methodology
+```text
+Synthetic data or uploaded CSV
+              │
+              ▼
+     Validation & cleaning
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+  Analytics      Data quality
+       │
+       ▼
+ Streamlit dashboard ──► Interactive Plotly charts and filtered CSV export
+       │
+       └───────────────► Optional static chart generation
+```
 
-- **Savings rate:** `(income − expenses) / income × 100`; defined as 0% when
-  income is zero. A negative rate means expenses exceed income.
-- **Recurring expenses:** same category and description, amounts within 5% of
-  the group median (minimum ₹10), and at least three distinct calendar months.
-  This is a heuristic, not a confirmed subscription.
-- **Unusual expenses:** high values above the per-category `Q3 + 1.5 × IQR`
-  fence. Categories with fewer than four observations are omitted.
-- **Budget utilization:** filtered category spending divided by its monthly
-  budget multiplied by the number of selected calendar months.
-- **Expense baseline:** mean expense value for the trailing three observed
-  calendar months, shown only when at least three months are available. It is
-  descriptive rather than a fitted forecasting model and has no confidence
-  interval.
-- All dashboard sections share the same date, category, type, and payment
-  filters. Amount calculations use positive magnitudes with transaction type
-  controlling cash-flow direction.
+### Project structure
 
-## Installation and execution (Windows PowerShell)
+```text
+expense-intelligence-platform/
+├── app.py
+├── main.py
+├── generate_data.py
+├── visualization.py
+├── requirements.txt
+├── README.md
+├── .streamlit/
+│   └── config.toml
+├── data/
+│   ├── raw/
+│   └── processed/
+├── src/
+│   ├── expense_tracker/
+│   │   ├── analytics.py
+│   │   ├── budgets.py
+│   │   ├── data_cleaning.py
+│   │   ├── data_generator.py
+│   │   ├── forecasting.py
+│   │   ├── insights.py
+│   │   └── ui.py
+│   ├── generate_data.py
+│   └── visualization.py
+├── tests/
+├── assets/
+│   └── screenshots/
+├── docs/
+└── outputs/
+    └── charts/
+```
+
+### Main modules
+
+| Module | Responsibility |
+| --- | --- |
+| `src/expense_tracker/data_generator.py` | Generate reproducible synthetic transactions |
+| `src/expense_tracker/data_cleaning.py` | Parse, validate, normalize, and clean CSV transactions |
+| `src/expense_tracker/analytics.py` | Financial summaries, categories, trends, budgets, recurrence, and outliers |
+| `src/expense_tracker/insights.py` | Build explainable spending insights |
+| `src/expense_tracker/forecasting.py` | Calculate a descriptive trailing-average expense baseline |
+| `src/expense_tracker/budgets.py` | Validate and persist local JSON budget settings |
+| `src/expense_tracker/ui.py` | Reusable FinTech theme, header, KPI, and chart styling |
+| `app.py` | Streamlit dashboard and user interactions |
+| `main.py` | Clean the sample data and print a summary |
+| `visualization.py` | Generate static charts |
+
+---
+
+## 📊 Dashboard Sections
+
+1. **Executive Overview** — Income, expenses, net balance, savings rate,
+   transactions, and recent activity.
+2. **Spending Analytics** — Category ranking and distribution, payment-method
+   analysis, and weekday/category patterns.
+3. **Financial Trends** — Monthly income, expenses, cash flow, and descriptive
+   next-month estimate.
+4. **Budget Management** — Edit, remove, or reset monthly category budgets and
+   review utilization and overspending.
+5. **Transaction Explorer** — Search, inspect, sort, and export filtered
+   transactions; add entries for the current session.
+6. **Spending Insights** — Highest-spending categories, changes, recurring-cost
+   candidates, and unusual transactions.
+7. **Data Quality** — Source, valid/removed row counts, and cleaning details.
+
+Global date, category, transaction-type, and payment-method filters update the
+applicable metrics and charts. The navigation includes refresh and filter-reset
+actions.
+
+---
+
+## 🧠 Analytics Methodology
+
+- **Savings rate:** `(income − expenses) / income × 100`; zero income is handled
+  safely.
+- **Recurring expenses:** A rule-based candidate requires a matching category
+  and description, similar amounts, and observations across multiple months.
+  This is a heuristic, not confirmation of a subscription.
+- **Unusual transactions:** Expense amounts above the category-specific
+  `Q3 + 1.5 × IQR` fence are flagged for review. These are candidates, not
+  fraud findings.
+- **Budget utilization:** Filtered category spending is compared with the
+  monthly budget over the selected calendar months.
+- **Moving-average estimate:** A trailing three-observed-month average is
+  displayed only when enough data is available. It is descriptive, not a
+  validated predictive model.
+- **Period comparisons:** KPI comparisons use the immediately preceding date
+  window of equal length and the same category, type, and payment filters.
+
+---
+
+## 🧹 Data Cleaning
+
+- Supports common aliases for required CSV columns.
+- Parses dates and numeric amounts safely and reports invalid records.
+- Normalizes transaction types and category labels.
+- Removes exact duplicates and repeated transaction IDs.
+- Rejects missing critical fields and non-positive or invalid amounts.
+- Shows input, valid, removed, and categorized removal counts.
+- Does not overwrite the original uploaded file.
+
+---
+
+## ⚙️ Installation
+
+Clone the repository and move into its folder:
+
+```powershell
+git clone https://github.com/maheshbhakre/expense-intelligence-platform.git
+cd expense-intelligence-platform
+```
+
+Create and activate a virtual environment in Windows PowerShell:
 
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
-python generate_data.py
-python main.py
-streamlit run app.py --server.port 8502
 ```
 
-If PowerShell blocks virtual-environment activation, use the interpreter
-directly:
+If script activation is restricted, call the environment's Python directly:
 
 ```powershell
 .\venv\Scripts\python.exe -m pip install -r requirements.txt
-.\venv\Scripts\python.exe generate_data.py
-.\venv\Scripts\python.exe main.py
-.\venv\Scripts\python.exe -m streamlit run app.py --server.port 8502
 ```
 
-Run the legacy generator with `python src/generate_data.py`; it writes the same
-canonical raw dataset. Static charts can be refreshed with
-`python visualization.py` after preprocessing.
+---
 
-Run automated tests:
+## 🖥️ Usage
+
+### Generate the reproducible sample data
+
+```powershell
+python generate_data.py
+```
+
+This writes `data/raw/transactions.csv` and does not overwrite uploaded data.
+
+### Clean and summarize transactions
+
+```powershell
+python main.py
+```
+
+Cleaned data is written to `data/processed/transactions_cleaned.csv`.
+
+### Launch the dashboard
+
+```powershell
+python -m streamlit run app.py --server.port 8502
+```
+
+Open [http://localhost:8502](http://localhost:8502).
+
+### Generate static charts
+
+```powershell
+python visualization.py
+```
+
+### Run tests
 
 ```powershell
 python -m pytest -q
 ```
 
-## Budgets, uploads, and privacy
+The project was verified with **18 passing pytest tests**. Test results may
+vary if the code or environment changes.
 
-- Monthly budgets are saved locally at `data/budgets.json` after a user edits
-  them; this file is ignored by Git. If absent, the dashboard displays clearly
-  labeled recommended starter values.
-- The transaction-entry form keeps records in Streamlit session state only.
-  Entries disappear when that session is cleared; no database persistence is
-  provided.
-- Uploaded CSVs are read and cleaned in memory. The app does not save or
-  overwrite the uploaded file. Export is an explicit user-triggered download.
-- Use only synthetic or appropriately authorized data. This local prototype is
-  not a bank integration, tax tool, financial advisor, or production-grade
-  secure data platform.
+---
 
-## Limitations and next steps
+## 🔐 Budgets, Uploads & Privacy
 
-This is a single-user local analytics prototype. It has no authentication,
-multi-user storage, bank integration, transaction reconciliation, or validated
-machine-learning forecast. Budget starter values are examples and should be
-customized. Anomaly and recurring-payment results are explainable heuristics
-that may produce false positives/negatives. See
-[`docs/PROJECT_AUDIT.md`](docs/PROJECT_AUDIT.md) and
-[`docs/PHASE_1_REPORT.md`](docs/PHASE_1_REPORT.md) for audit and implementation
-details.
+- Edited budgets are stored locally in `data/budgets.json`; the file is ignored
+  by Git. If it does not exist, the dashboard uses clearly labeled recommended
+  starter values.
+- Transaction entries added in the dashboard are kept in Streamlit session
+  state only. They are not persisted to a database or file.
+- Uploaded CSVs are processed in memory. The app does not save or overwrite
+  the original upload.
+- CSV export is an explicit download action.
+- Use only synthetic data or financial data you are authorized to process, and
+  run the app in a suitable private environment.
+
+---
+
+## ⚠️ Limitations
+
+- This is a local, single-user analytics prototype. It has no authentication,
+  multi-user database, bank connection, or transaction reconciliation.
+- Budget defaults are examples and should be adjusted by the user.
+- Recurring-cost and IQR rules can produce false positives and false negatives.
+- The moving-average estimate is not a trained or validated forecasting model.
+- The application is not financial, tax, or investment advice.
+
+For the implementation audit and detailed completion notes, see
+[`docs/PROJECT_AUDIT.md`](docs/PROJECT_AUDIT.md),
+[`docs/PHASE_1_REPORT.md`](docs/PHASE_1_REPORT.md), and
+[`docs/UI_UPGRADE_REPORT.md`](docs/UI_UPGRADE_REPORT.md).
+
+---
+
+## 👨‍💻 Author
+
+**Mahesh Bhakre**
+
+[GitHub](https://github.com/maheshbhakre) ·
+[LinkedIn](https://www.linkedin.com/in/maheshbhakreds1242) ·
+[Portfolio](https://saimfsd.github.io/mahesh-portfolio/)
+
+---
+
+## 🎯 Interview Summary
+
+> “I built a reproducible personal-finance analytics application that validates
+> transaction data, computes explainable spending and budget metrics, and
+> presents interactive insights in a Streamlit dashboard.”
+
+---
