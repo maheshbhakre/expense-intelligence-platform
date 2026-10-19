@@ -1,0 +1,1921 @@
+Transaction_ID,Date,Category,Description,Amount,Type,Payment_Method
+SIM-000004,2024-01-01,Salary,Monthly simulated salary,37677,Income,Bank Transfer
+SIM-000043,2024-01-01,Dining,Restaurant,158,Expense,Card
+SIM-000064,2024-01-01,Groceries,Weekly groceries,439,Expense,UPI
+SIM-000066,2024-01-01,Shopping,Home goods,887,Expense,Cash
+SIM-000026,2024-01-02,Housing,Home maintenance,821,Expense,Card
+SIM-000022,2024-01-03,Healthcare,Health check-up,1171,Expense,Cash
+SIM-000032,2024-01-03,Utilities,Water bill,477,Expense,Auto-debit
+SIM-000044,2024-01-03,Shopping,Online purchase,191,Expense,Card
+SIM-000059,2024-01-03,Housing,Home maintenance,306,Expense,UPI
+SIM-000060,2024-01-03,Groceries,Household supplies,516,Expense,UPI
+SIM-000079,2024-01-03,Groceries,Household supplies,338,Expense,UPI
+SIM-000021,2024-01-04,Groceries,Weekly groceries,320,Expense,Card
+SIM-000041,2024-01-04,Groceries,Household supplies,187,Expense,UPI
+SIM-000049,2024-01-04,Dining,Cafe,226,Expense,Cash
+SIM-000051,2024-01-04,Housing,Home maintenance,583,Expense,Card
+SIM-000067,2024-01-04,Groceries,Fresh produce,384,Expense,Card
+SIM-000001,2024-01-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000002,2024-01-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000003,2024-01-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000012,2024-01-05,Groceries,Fresh produce,472,Expense,Cash
+SIM-000015,2024-01-05,Housing,Home maintenance,977,Expense,Card
+SIM-000030,2024-01-05,Transport,Ride share,214,Expense,Card
+SIM-000048,2024-01-05,Education,Books and supplies,744,Expense,UPI
+SIM-000063,2024-01-05,Transport,Fuel,376,Expense,UPI
+SIM-000007,2024-01-06,Utilities,Electricity bill,1120,Expense,Cash
+SIM-000014,2024-01-06,Transport,Ride share,201,Expense,Card
+SIM-000028,2024-01-06,Shopping,Clothing,468,Expense,UPI
+SIM-000037,2024-01-06,Healthcare,Clinic visit,748,Expense,Cash
+SIM-000040,2024-01-06,Groceries,Weekly groceries,347,Expense,UPI
+SIM-000005,2024-01-07,Dining,Food delivery,129,Expense,Auto-debit
+SIM-000025,2024-01-08,Subscriptions,Music subscription,347,Expense,UPI
+SIM-000031,2024-01-08,Utilities,Water bill,431,Expense,Cash
+SIM-000047,2024-01-09,Transport,Metro pass,38,Expense,Bank Transfer
+SIM-000077,2024-01-09,Subscriptions,Cloud subscription,236,Expense,UPI
+SIM-000052,2024-01-10,Utilities,Electricity bill,1013,Expense,Bank Transfer
+SIM-000054,2024-01-10,Housing,Home maintenance,1490,Expense,UPI
+SIM-000055,2024-01-10,Groceries,Household supplies,317,Expense,Auto-debit
+SIM-000080,2024-01-10,Shopping,Home goods,441,Expense,UPI
+SIM-000010,2024-01-11,Entertainment,Digital entertainment,161,Expense,Auto-debit
+SIM-000058,2024-01-12,Dining,Cafe,541,Expense,Cash
+SIM-000076,2024-01-12,Transport,Metro pass,373,Expense,Cash
+SIM-000013,2024-01-13,Personal Care,Wellness,213,Expense,UPI
+SIM-000008,2024-01-14,Shopping,Home goods,595,Expense,Card
+SIM-000057,2024-01-15,Transport,Ride share,147,Expense,Bank Transfer
+SIM-000033,2024-01-16,Education,Course fee,1460,Expense,UPI
+SIM-000069,2024-01-17,Personal Care,Salon visit,197,Expense,Auto-debit
+SIM-000020,2024-01-18,Shopping,Home goods,605,Expense,Card
+SIM-000023,2024-01-18,Healthcare,Pharmacy,1213,Expense,UPI
+SIM-000046,2024-01-18,Housing,Home maintenance,1445,Expense,Card
+SIM-000070,2024-01-18,Groceries,Fresh produce,174,Expense,UPI
+SIM-000061,2024-01-19,Groceries,Fresh produce,460,Expense,UPI
+SIM-000016,2024-01-20,Shopping,Online purchase,870,Expense,UPI
+SIM-000018,2024-01-20,Dining,Cafe,152,Expense,UPI
+SIM-000038,2024-01-21,Entertainment,Digital entertainment,489,Expense,Card
+SIM-000039,2024-01-21,Dining,Restaurant,407,Expense,Card
+SIM-000029,2024-01-22,Entertainment,Movie tickets,516,Expense,UPI
+SIM-000036,2024-01-22,Transport,Metro pass,105,Expense,UPI
+SIM-000065,2024-01-22,Transport,Ride share,314,Expense,UPI
+SIM-000035,2024-01-23,Housing,Home maintenance,395,Expense,Auto-debit
+SIM-000011,2024-01-24,Shopping,Online purchase,314,Expense,Card
+SIM-000050,2024-01-24,Entertainment,Digital entertainment,388,Expense,Auto-debit
+SIM-000056,2024-01-24,Education,Course fee,1723,Expense,Auto-debit
+SIM-000071,2024-01-24,Groceries,Fresh produce,309,Expense,Auto-debit
+SIM-000006,2024-01-25,Entertainment,Digital entertainment,562,Expense,Card
+SIM-000017,2024-01-25,Shopping,Home goods,1026,Expense,UPI
+SIM-000019,2024-01-25,Groceries,Household supplies,490,Expense,Cash
+SIM-000034,2024-01-25,Personal Care,Personal care,186,Expense,Card
+SIM-000074,2024-01-25,Shopping,Clothing,609,Expense,Card
+SIM-000009,2024-01-27,Groceries,Weekly groceries,514,Expense,Cash
+SIM-000073,2024-01-27,Shopping,Online purchase,119,Expense,UPI
+SIM-000068,2024-01-29,Housing,Home maintenance,458,Expense,Cash
+SIM-000072,2024-01-29,Dining,Restaurant,464,Expense,Card
+SIM-000075,2024-01-29,Dining,Restaurant,532,Expense,Card
+SIM-000045,2024-01-30,Transport,Fuel,89,Expense,Card
+SIM-000053,2024-01-30,Utilities,Electricity bill,798,Expense,Card
+SIM-000024,2024-01-31,Transport,Metro pass,109,Expense,Card
+SIM-000027,2024-01-31,Shopping,Home goods,831,Expense,Card
+SIM-000042,2024-01-31,Travel,Hotel booking,1869,Expense,UPI
+SIM-000062,2024-01-31,Utilities,Water bill,955,Expense,Auto-debit
+SIM-000078,2024-01-31,Housing,Home maintenance,1195,Expense,Bank Transfer
+SIM-000084,2024-02-01,Salary,Monthly simulated salary,62458,Income,Bank Transfer
+SIM-000085,2024-02-01,Freelance,Simulated freelance work,14131,Income,Bank Transfer
+SIM-000122,2024-02-01,Dining,Cafe,129,Expense,Bank Transfer
+SIM-000109,2024-02-02,Dining,Food delivery,129,Expense,Card
+SIM-000138,2024-02-02,Dining,Cafe,116,Expense,UPI
+SIM-000092,2024-02-03,Transport,Ride share,64,Expense,UPI
+SIM-000106,2024-02-03,Entertainment,Event ticket,571,Expense,UPI
+SIM-000137,2024-02-03,Housing,Home maintenance,1152,Expense,Auto-debit
+SIM-000086,2024-02-04,Groceries,Fresh produce,370,Expense,UPI
+SIM-000121,2024-02-04,Dining,Restaurant,143,Expense,Card
+SIM-000160,2024-02-04,Dining,Food delivery,344,Expense,Auto-debit
+SIM-000081,2024-02-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000082,2024-02-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000083,2024-02-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000107,2024-02-05,Personal Care,Wellness,416,Expense,Card
+SIM-000119,2024-02-05,Transport,Ride share,169,Expense,Auto-debit
+SIM-000104,2024-02-06,Entertainment,Movie tickets,638,Expense,Bank Transfer
+SIM-000140,2024-02-06,Groceries,Household supplies,288,Expense,Card
+SIM-000090,2024-02-07,Groceries,Household supplies,214,Expense,Card
+SIM-000132,2024-02-08,Shopping,Online purchase,163,Expense,Bank Transfer
+SIM-000141,2024-02-08,Shopping,Online purchase,800,Expense,Card
+SIM-000143,2024-02-08,Dining,Restaurant,418,Expense,Auto-debit
+SIM-000091,2024-02-09,Transport,Metro pass,48,Expense,UPI
+SIM-000116,2024-02-10,Utilities,Internet bill,444,Expense,UPI
+SIM-000151,2024-02-10,Dining,Cafe,208,Expense,Card
+SIM-000088,2024-02-12,Dining,Food delivery,511,Expense,Card
+SIM-000125,2024-02-12,Groceries,Household supplies,599,Expense,Bank Transfer
+SIM-000147,2024-02-12,Dining,Food delivery,159,Expense,UPI
+SIM-000159,2024-02-13,Subscriptions,Music subscription,211,Expense,UPI
+SIM-000098,2024-02-14,Groceries,Fresh produce,182,Expense,UPI
+SIM-000123,2024-02-14,Housing,Home maintenance,1462,Expense,Card
+SIM-000124,2024-02-14,Housing,Home maintenance,919,Expense,Bank Transfer
+SIM-000134,2024-02-14,Groceries,Household supplies,201,Expense,UPI
+SIM-000139,2024-02-14,Subscriptions,Cloud subscription,313,Expense,UPI
+SIM-000149,2024-02-14,Transport,Fuel,84,Expense,Card
+SIM-000096,2024-02-15,Healthcare,Pharmacy,1454,Expense,Card
+SIM-000099,2024-02-15,Utilities,Internet bill,503,Expense,UPI
+SIM-000144,2024-02-15,Groceries,Fresh produce,446,Expense,Card
+SIM-000152,2024-02-16,Transport,Ride share,262,Expense,UPI
+SIM-000110,2024-02-17,Groceries,Weekly groceries,103,Expense,Card
+SIM-000117,2024-02-17,Travel,Train ticket,1482,Expense,Card
+SIM-000118,2024-02-17,Entertainment,Movie tickets,955,Expense,Bank Transfer
+SIM-000157,2024-02-17,Housing,Home maintenance,701,Expense,UPI
+SIM-000095,2024-02-18,Dining,Food delivery,485,Expense,UPI
+SIM-000112,2024-02-18,Transport,Metro pass,81,Expense,UPI
+SIM-000131,2024-02-18,Groceries,Household supplies,591,Expense,UPI
+SIM-000146,2024-02-18,Housing,Home maintenance,813,Expense,Card
+SIM-000148,2024-02-18,Dining,Cafe,245,Expense,UPI
+SIM-000150,2024-02-18,Healthcare,Pharmacy,1083,Expense,Cash
+SIM-000093,2024-02-20,Travel,Travel booking,567,Expense,Bank Transfer
+SIM-000097,2024-02-20,Utilities,Water bill,804,Expense,UPI
+SIM-000100,2024-02-20,Utilities,Electricity bill,359,Expense,Auto-debit
+SIM-000127,2024-02-20,Personal Care,Personal care,133,Expense,UPI
+SIM-000113,2024-02-21,Groceries,Household supplies,143,Expense,Cash
+SIM-000111,2024-02-22,Transport,Fuel,313,Expense,Bank Transfer
+SIM-000135,2024-02-22,Transport,Fuel,233,Expense,Bank Transfer
+SIM-000153,2024-02-22,Transport,Ride share,237,Expense,Auto-debit
+SIM-000154,2024-02-22,Transport,Ride share,223,Expense,Bank Transfer
+SIM-000158,2024-02-22,Utilities,Electricity bill,1093,Expense,Bank Transfer
+SIM-000089,2024-02-23,Subscriptions,Music subscription,356,Expense,UPI
+SIM-000103,2024-02-23,Healthcare,Clinic visit,986,Expense,UPI
+SIM-000114,2024-02-23,Transport,Ride share,107,Expense,UPI
+SIM-000126,2024-02-23,Housing,Home maintenance,1305,Expense,UPI
+SIM-000129,2024-02-23,Groceries,Household supplies,504,Expense,Auto-debit
+SIM-000133,2024-02-23,Travel,Train ticket,2585,Expense,Bank Transfer
+SIM-000108,2024-02-24,Shopping,Online purchase,1125,Expense,UPI
+SIM-000115,2024-02-24,Education,Learning material,1573,Expense,UPI
+SIM-000136,2024-02-24,Groceries,Fresh produce,468,Expense,UPI
+SIM-000087,2024-02-25,Groceries,Weekly groceries,126,Expense,Card
+SIM-000101,2024-02-25,Education,Course fee,1066,Expense,UPI
+SIM-000102,2024-02-25,Healthcare,Health check-up,785,Expense,Bank Transfer
+SIM-000155,2024-02-25,Utilities,Internet bill,522,Expense,UPI
+SIM-000128,2024-02-26,Education,Books and supplies,252,Expense,UPI
+SIM-000156,2024-02-26,Groceries,Fresh produce,521,Expense,UPI
+SIM-000130,2024-02-27,Dining,Restaurant,98,Expense,UPI
+SIM-000105,2024-02-28,Groceries,Household supplies,407,Expense,UPI
+SIM-000120,2024-02-28,Entertainment,Digital entertainment,481,Expense,Bank Transfer
+SIM-000142,2024-02-28,Groceries,Weekly groceries,371,Expense,Card
+SIM-000094,2024-02-29,Education,Course fee,777,Expense,Bank Transfer
+SIM-000145,2024-02-29,Groceries,Fresh produce,167,Expense,UPI
+SIM-000164,2024-03-01,Salary,Monthly simulated salary,45947,Income,Bank Transfer
+SIM-000214,2024-03-01,Dining,Food delivery,235,Expense,UPI
+SIM-000227,2024-03-01,Subscriptions,Music subscription,132,Expense,Card
+SIM-000236,2024-03-01,Shopping,Home goods,409,Expense,Card
+SIM-000225,2024-03-02,Housing,Home maintenance,1473,Expense,Card
+SIM-000235,2024-03-03,Housing,Home maintenance,983,Expense,Card
+SIM-000180,2024-03-04,Healthcare,Clinic visit,130,Expense,Auto-debit
+SIM-000189,2024-03-04,Personal Care,Salon visit,494,Expense,UPI
+SIM-000198,2024-03-04,Housing,Home maintenance,1046,Expense,Bank Transfer
+SIM-000206,2024-03-04,Groceries,Weekly groceries,388,Expense,Auto-debit
+SIM-000222,2024-03-04,Housing,Home maintenance,987,Expense,Card
+SIM-000161,2024-03-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000162,2024-03-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000163,2024-03-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000169,2024-03-05,Personal Care,Salon visit,289,Expense,Card
+SIM-000171,2024-03-05,Transport,Ride share,143,Expense,Auto-debit
+SIM-000215,2024-03-05,Utilities,Electricity bill,482,Expense,UPI
+SIM-000226,2024-03-05,Transport,Metro pass,30,Expense,UPI
+SIM-000234,2024-03-05,Groceries,Weekly groceries,155,Expense,Card
+SIM-000167,2024-03-06,Transport,Fuel,293,Expense,Bank Transfer
+SIM-000232,2024-03-06,Entertainment,Movie tickets,235,Expense,UPI
+SIM-000209,2024-03-07,Groceries,Fresh produce,377,Expense,Card
+SIM-000216,2024-03-08,Healthcare,Health check-up,1209,Expense,Bank Transfer
+SIM-000238,2024-03-08,Housing,Home maintenance,1403,Expense,Card
+SIM-000182,2024-03-09,Housing,Home maintenance,329,Expense,Auto-debit
+SIM-000229,2024-03-09,Shopping,Home goods,352,Expense,UPI
+SIM-000183,2024-03-10,Transport,Fuel,82,Expense,UPI
+SIM-000202,2024-03-10,Subscriptions,Software plan,313,Expense,Card
+SIM-000166,2024-03-11,Dining,Food delivery,85,Expense,UPI
+SIM-000177,2024-03-11,Shopping,Home goods,631,Expense,Bank Transfer
+SIM-000208,2024-03-11,Transport,Fuel,79,Expense,UPI
+SIM-000176,2024-03-12,Groceries,Household supplies,472,Expense,UPI
+SIM-000179,2024-03-12,Subscriptions,Software plan,201,Expense,Card
+SIM-000212,2024-03-12,Education,Books and supplies,623,Expense,UPI
+SIM-000224,2024-03-12,Groceries,Fresh produce,489,Expense,Cash
+SIM-000175,2024-03-13,Dining,Food delivery,429,Expense,Bank Transfer
+SIM-000181,2024-03-13,Dining,Cafe,172,Expense,UPI
+SIM-000197,2024-03-13,Entertainment,Digital entertainment,821,Expense,UPI
+SIM-000201,2024-03-13,Housing,Home maintenance,1324,Expense,UPI
+SIM-000228,2024-03-13,Utilities,Internet bill,574,Expense,Bank Transfer
+SIM-000188,2024-03-14,Entertainment,Digital entertainment,685,Expense,Cash
+SIM-000187,2024-03-15,Shopping,Online purchase,1054,Expense,UPI
+SIM-000192,2024-03-15,Personal Care,Wellness,213,Expense,Card
+SIM-000217,2024-03-15,Transport,Ride share,382,Expense,Cash
+SIM-000174,2024-03-16,Housing,Home maintenance,1309,Expense,Cash
+SIM-000178,2024-03-16,Subscriptions,Cloud subscription,229,Expense,Card
+SIM-000191,2024-03-16,Groceries,Fresh produce,489,Expense,Card
+SIM-000199,2024-03-16,Groceries,Household supplies,231,Expense,UPI
+SIM-000213,2024-03-17,Education,Course fee,1972,Expense,Card
+SIM-000240,2024-03-17,Utilities,Internet bill,979,Expense,Card
+SIM-000219,2024-03-18,Groceries,Weekly groceries,260,Expense,Cash
+SIM-000173,2024-03-19,Transport,Ride share,298,Expense,UPI
+SIM-000184,2024-03-19,Housing,Home maintenance,504,Expense,Cash
+SIM-000203,2024-03-19,Housing,Home maintenance,960,Expense,UPI
+SIM-000207,2024-03-19,Entertainment,Digital entertainment,154,Expense,Auto-debit
+SIM-000172,2024-03-20,Groceries,Weekly groceries,216,Expense,UPI
+SIM-000193,2024-03-21,Shopping,Online purchase,193,Expense,Card
+SIM-000204,2024-03-21,Groceries,Household supplies,271,Expense,Cash
+SIM-000218,2024-03-21,Shopping,Online purchase,1093,Expense,Bank Transfer
+SIM-000165,2024-03-22,Utilities,Water bill,258,Expense,Card
+SIM-000200,2024-03-22,Utilities,Water bill,1086,Expense,Cash
+SIM-000196,2024-03-23,Dining,Food delivery,422,Expense,Bank Transfer
+SIM-000190,2024-03-24,Entertainment,Digital entertainment,673,Expense,UPI
+SIM-000211,2024-03-24,Personal Care,Wellness,289,Expense,UPI
+SIM-000185,2024-03-25,Personal Care,Wellness,339,Expense,Card
+SIM-000220,2024-03-25,Personal Care,Personal care,293,Expense,Card
+SIM-000223,2024-03-25,Transport,Metro pass,145,Expense,UPI
+SIM-000170,2024-03-26,Groceries,Fresh produce,478,Expense,Card
+SIM-000230,2024-03-27,Transport,Metro pass,283,Expense,UPI
+SIM-000210,2024-03-28,Dining,Restaurant,258,Expense,Card
+SIM-000237,2024-03-28,Groceries,Household supplies,487,Expense,Bank Transfer
+SIM-000186,2024-03-29,Entertainment,Event ticket,564,Expense,Auto-debit
+SIM-000194,2024-03-29,Shopping,Clothing,589,Expense,UPI
+SIM-000231,2024-03-29,Utilities,Electricity bill,631,Expense,Card
+SIM-000233,2024-03-29,Groceries,Weekly groceries,145,Expense,UPI
+SIM-000168,2024-03-30,Personal Care,Personal care,311,Expense,Bank Transfer
+SIM-000195,2024-03-30,Utilities,Water bill,153,Expense,UPI
+SIM-000221,2024-03-30,Groceries,Household supplies,470,Expense,UPI
+SIM-000205,2024-03-31,Shopping,Home goods,802,Expense,Card
+SIM-000239,2024-03-31,Dining,Food delivery,121,Expense,Bank Transfer
+SIM-000244,2024-04-01,Salary,Monthly simulated salary,43893,Income,Bank Transfer
+SIM-000250,2024-04-01,Groceries,Household supplies,377,Expense,Card
+SIM-000254,2024-04-01,Shopping,Clothing,157,Expense,UPI
+SIM-000281,2024-04-03,Housing,Home maintenance,567,Expense,UPI
+SIM-000248,2024-04-04,Dining,Restaurant,484,Expense,Cash
+SIM-000253,2024-04-04,Dining,Restaurant,233,Expense,Cash
+SIM-000294,2024-04-04,Transport,Fuel,163,Expense,Auto-debit
+SIM-000317,2024-04-04,Dining,Restaurant,421,Expense,Cash
+SIM-000241,2024-04-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000242,2024-04-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000243,2024-04-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000246,2024-04-05,Groceries,Household supplies,430,Expense,Cash
+SIM-000297,2024-04-05,Groceries,Weekly groceries,559,Expense,UPI
+SIM-000306,2024-04-05,Groceries,Fresh produce,494,Expense,Card
+SIM-000288,2024-04-06,Shopping,Home goods,816,Expense,Card
+SIM-000315,2024-04-06,Transport,Fuel,270,Expense,UPI
+SIM-000296,2024-04-07,Healthcare,Health check-up,330,Expense,UPI
+SIM-000261,2024-04-08,Personal Care,Wellness,151,Expense,UPI
+SIM-000276,2024-04-08,Transport,Fuel,77,Expense,Card
+SIM-000277,2024-04-08,Personal Care,Personal care,352,Expense,Card
+SIM-000278,2024-04-08,Groceries,Weekly groceries,167,Expense,Bank Transfer
+SIM-000283,2024-04-08,Groceries,Weekly groceries,327,Expense,Bank Transfer
+SIM-000257,2024-04-09,Healthcare,Health check-up,1162,Expense,Auto-debit
+SIM-000320,2024-04-09,Groceries,Household supplies,483,Expense,UPI
+SIM-000272,2024-04-10,Groceries,Fresh produce,181,Expense,Cash
+SIM-000291,2024-04-10,Housing,Home maintenance,594,Expense,UPI
+SIM-000318,2024-04-10,Groceries,Household supplies,503,Expense,Bank Transfer
+SIM-000269,2024-04-11,Utilities,Water bill,770,Expense,Card
+SIM-000256,2024-04-12,Healthcare,Clinic visit,1153,Expense,Cash
+SIM-000260,2024-04-12,Subscriptions,Cloud subscription,147,Expense,UPI
+SIM-000259,2024-04-13,Transport,Metro pass,181,Expense,UPI
+SIM-000285,2024-04-13,Utilities,Water bill,222,Expense,Bank Transfer
+SIM-000289,2024-04-13,Housing,Home maintenance,1355,Expense,Bank Transfer
+SIM-000265,2024-04-14,Healthcare,Health check-up,246,Expense,Auto-debit
+SIM-000267,2024-04-14,Entertainment,Movie tickets,120,Expense,Auto-debit
+SIM-000293,2024-04-14,Transport,Ride share,226,Expense,Card
+SIM-000298,2024-04-14,Dining,Restaurant,585,Expense,Card
+SIM-000316,2024-04-14,Utilities,Internet bill,384,Expense,UPI
+SIM-000300,2024-04-15,Entertainment,Event ticket,856,Expense,Auto-debit
+SIM-000258,2024-04-16,Transport,Ride share,379,Expense,Bank Transfer
+SIM-000284,2024-04-16,Dining,Restaurant,463,Expense,UPI
+SIM-000309,2024-04-16,Personal Care,Salon visit,220,Expense,UPI
+SIM-000301,2024-04-17,Utilities,Electricity bill,155,Expense,UPI
+SIM-000251,2024-04-18,Groceries,Household supplies,549,Expense,Auto-debit
+SIM-000274,2024-04-18,Entertainment,Movie tickets,893,Expense,UPI
+SIM-000252,2024-04-19,Healthcare,Pharmacy,355,Expense,UPI
+SIM-000270,2024-04-19,Utilities,Electricity bill,733,Expense,Card
+SIM-000302,2024-04-19,Shopping,Home goods,159,Expense,Bank Transfer
+SIM-000263,2024-04-20,Entertainment,Movie tickets,891,Expense,UPI
+SIM-000307,2024-04-20,Travel,Hotel booking,1162,Expense,Cash
+SIM-000308,2024-04-20,Transport,Metro pass,274,Expense,Card
+SIM-000312,2024-04-20,Healthcare,Health check-up,341,Expense,Auto-debit
+SIM-000268,2024-04-22,Utilities,Water bill,1125,Expense,Card
+SIM-000287,2024-04-22,Education,Learning material,380,Expense,UPI
+SIM-000314,2024-04-22,Healthcare,Pharmacy,925,Expense,Auto-debit
+SIM-000264,2024-04-23,Transport,Metro pass,272,Expense,Bank Transfer
+SIM-000282,2024-04-23,Shopping,Home goods,779,Expense,Card
+SIM-000286,2024-04-23,Housing,Home maintenance,1024,Expense,UPI
+SIM-000290,2024-04-23,Subscriptions,Software plan,201,Expense,Card
+SIM-000303,2024-04-23,Housing,Home maintenance,552,Expense,Card
+SIM-000304,2024-04-23,Dining,Food delivery,81,Expense,Auto-debit
+SIM-000311,2024-04-23,Education,Course fee,1550,Expense,Auto-debit
+SIM-000313,2024-04-23,Utilities,Electricity bill,913,Expense,Card
+SIM-000319,2024-04-23,Subscriptions,Music subscription,173,Expense,Cash
+SIM-000249,2024-04-24,Groceries,Weekly groceries,354,Expense,Auto-debit
+SIM-000266,2024-04-24,Subscriptions,Software plan,250,Expense,UPI
+SIM-000279,2024-04-24,Subscriptions,Music subscription,371,Expense,Auto-debit
+SIM-000247,2024-04-25,Entertainment,Digital entertainment,385,Expense,Auto-debit
+SIM-000245,2024-04-26,Groceries,Weekly groceries,114,Expense,UPI
+SIM-000255,2024-04-26,Subscriptions,Cloud subscription,175,Expense,Card
+SIM-000295,2024-04-26,Transport,Metro pass,383,Expense,UPI
+SIM-000299,2024-04-26,Groceries,Fresh produce,595,Expense,Bank Transfer
+SIM-000310,2024-04-26,Dining,Food delivery,384,Expense,Card
+SIM-000292,2024-04-27,Travel,Train ticket,308,Expense,Card
+SIM-000305,2024-04-27,Housing,Home maintenance,374,Expense,Card
+SIM-000262,2024-04-28,Subscriptions,Software plan,172,Expense,Card
+SIM-000271,2024-04-29,Housing,Home maintenance,705,Expense,Card
+SIM-000273,2024-04-29,Utilities,Electricity bill,900,Expense,UPI
+SIM-000280,2024-04-29,Personal Care,Salon visit,325,Expense,UPI
+SIM-000275,2024-04-30,Housing,Home maintenance,523,Expense,Card
+SIM-000324,2024-05-01,Salary,Monthly simulated salary,39159,Income,Bank Transfer
+SIM-000328,2024-05-01,Dining,Cafe,360,Expense,Bank Transfer
+SIM-000399,2024-05-01,Healthcare,Health check-up,963,Expense,Cash
+SIM-000357,2024-05-02,Shopping,Online purchase,202,Expense,Card
+SIM-000362,2024-05-02,Shopping,Clothing,538,Expense,Auto-debit
+SIM-000379,2024-05-02,Utilities,Electricity bill,678,Expense,UPI
+SIM-000361,2024-05-03,Groceries,Household supplies,268,Expense,UPI
+SIM-000372,2024-05-03,Dining,Food delivery,268,Expense,UPI
+SIM-000400,2024-05-03,Healthcare,Pharmacy,137,Expense,Cash
+SIM-000339,2024-05-04,Shopping,Home goods,226,Expense,Auto-debit
+SIM-000347,2024-05-04,Entertainment,Event ticket,979,Expense,UPI
+SIM-000381,2024-05-04,Travel,Travel booking,2334,Expense,UPI
+SIM-000321,2024-05-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000322,2024-05-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000323,2024-05-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000338,2024-05-05,Shopping,Clothing,1023,Expense,UPI
+SIM-000342,2024-05-05,Groceries,Household supplies,394,Expense,UPI
+SIM-000337,2024-05-06,Subscriptions,Cloud subscription,209,Expense,UPI
+SIM-000344,2024-05-06,Shopping,Home goods,271,Expense,Card
+SIM-000351,2024-05-06,Shopping,Clothing,640,Expense,Auto-debit
+SIM-000371,2024-05-06,Transport,Fuel,146,Expense,Card
+SIM-000343,2024-05-07,Subscriptions,Software plan,299,Expense,UPI
+SIM-000377,2024-05-07,Groceries,Fresh produce,152,Expense,UPI
+SIM-000384,2024-05-07,Groceries,Fresh produce,301,Expense,UPI
+SIM-000335,2024-05-08,Housing,Home maintenance,666,Expense,Card
+SIM-000358,2024-05-08,Entertainment,Event ticket,394,Expense,Card
+SIM-000366,2024-05-08,Housing,Home maintenance,1182,Expense,Card
+SIM-000336,2024-05-09,Utilities,Electricity bill,340,Expense,Bank Transfer
+SIM-000353,2024-05-09,Healthcare,Pharmacy,194,Expense,UPI
+SIM-000369,2024-05-09,Housing,Home maintenance,802,Expense,Cash
+SIM-000330,2024-05-10,Subscriptions,Music subscription,357,Expense,Card
+SIM-000345,2024-05-10,Transport,Fuel,284,Expense,Cash
+SIM-000376,2024-05-10,Housing,Home maintenance,1116,Expense,UPI
+SIM-000349,2024-05-11,Utilities,Electricity bill,966,Expense,Bank Transfer
+SIM-000375,2024-05-11,Groceries,Fresh produce,207,Expense,Card
+SIM-000386,2024-05-11,Personal Care,Wellness,287,Expense,Card
+SIM-000329,2024-05-12,Dining,Cafe,311,Expense,Auto-debit
+SIM-000387,2024-05-12,Personal Care,Wellness,418,Expense,Card
+SIM-000340,2024-05-13,Housing,Home maintenance,1436,Expense,Card
+SIM-000350,2024-05-13,Shopping,Online purchase,534,Expense,Cash
+SIM-000380,2024-05-13,Dining,Cafe,187,Expense,Auto-debit
+SIM-000382,2024-05-13,Dining,Restaurant,143,Expense,Bank Transfer
+SIM-000395,2024-05-13,Entertainment,Digital entertainment,877,Expense,Card
+SIM-000348,2024-05-14,Transport,Metro pass,107,Expense,Cash
+SIM-000354,2024-05-14,Groceries,Weekly groceries,526,Expense,UPI
+SIM-000390,2024-05-14,Utilities,Internet bill,575,Expense,Cash
+SIM-000334,2024-05-15,Transport,Fuel,289,Expense,Cash
+SIM-000374,2024-05-15,Education,Course fee,1694,Expense,Auto-debit
+SIM-000394,2024-05-17,Utilities,Electricity bill,204,Expense,UPI
+SIM-000396,2024-05-17,Entertainment,Movie tickets,331,Expense,Bank Transfer
+SIM-000370,2024-05-18,Shopping,Home goods,273,Expense,UPI
+SIM-000385,2024-05-18,Travel,Train ticket,2773,Expense,UPI
+SIM-000393,2024-05-18,Dining,Cafe,272,Expense,UPI
+SIM-000326,2024-05-19,Personal Care,Salon visit,392,Expense,Card
+SIM-000397,2024-05-19,Travel,Train ticket,582,Expense,UPI
+SIM-000360,2024-05-20,Housing,Home maintenance,550,Expense,Cash
+SIM-000365,2024-05-20,Housing,Home maintenance,565,Expense,Cash
+SIM-000363,2024-05-21,Groceries,Household supplies,189,Expense,Card
+SIM-000378,2024-05-21,Groceries,Fresh produce,531,Expense,UPI
+SIM-000388,2024-05-21,Groceries,Fresh produce,260,Expense,UPI
+SIM-000327,2024-05-23,Utilities,Electricity bill,1174,Expense,Card
+SIM-000359,2024-05-23,Entertainment,Digital entertainment,518,Expense,UPI
+SIM-000355,2024-05-24,Dining,Food delivery,508,Expense,UPI
+SIM-000373,2024-05-24,Education,Course fee,1363,Expense,UPI
+SIM-000331,2024-05-26,Dining,Cafe,254,Expense,UPI
+SIM-000367,2024-05-26,Healthcare,Clinic visit,619,Expense,UPI
+SIM-000383,2024-05-26,Entertainment,Movie tickets,723,Expense,Auto-debit
+SIM-000356,2024-05-27,Groceries,Weekly groceries,234,Expense,Card
+SIM-000389,2024-05-27,Groceries,Household supplies,115,Expense,UPI
+SIM-000398,2024-05-27,Travel,Travel booking,1360,Expense,Auto-debit
+SIM-000341,2024-05-28,Dining,Restaurant,566,Expense,Auto-debit
+SIM-000352,2024-05-28,Groceries,Fresh produce,558,Expense,UPI
+SIM-000332,2024-05-29,Education,Learning material,769,Expense,Auto-debit
+SIM-000368,2024-05-29,Groceries,Household supplies,401,Expense,Card
+SIM-000391,2024-05-29,Travel,Travel booking,2273,Expense,UPI
+SIM-000325,2024-05-30,Housing,Home maintenance,951,Expense,Cash
+SIM-000364,2024-05-30,Subscriptions,Cloud subscription,393,Expense,Bank Transfer
+SIM-000333,2024-05-31,Entertainment,Digital entertainment,788,Expense,Bank Transfer
+SIM-000346,2024-05-31,Personal Care,Personal care,88,Expense,UPI
+SIM-000392,2024-05-31,Transport,Fuel,240,Expense,Card
+SIM-000404,2024-06-01,Salary,Monthly simulated salary,39531,Income,Bank Transfer
+SIM-000449,2024-06-01,Transport,Metro pass,218,Expense,Card
+SIM-000423,2024-06-02,Personal Care,Salon visit,161,Expense,UPI
+SIM-000452,2024-06-02,Dining,Cafe,391,Expense,Card
+SIM-000461,2024-06-03,Groceries,Household supplies,578,Expense,UPI
+SIM-000410,2024-06-04,Utilities,Electricity bill,529,Expense,Card
+SIM-000416,2024-06-04,Dining,Food delivery,276,Expense,Card
+SIM-000425,2024-06-04,Shopping,Online purchase,411,Expense,Bank Transfer
+SIM-000401,2024-06-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000402,2024-06-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000403,2024-06-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000440,2024-06-05,Groceries,Weekly groceries,197,Expense,Card
+SIM-000480,2024-06-05,Subscriptions,Software plan,193,Expense,Card
+SIM-000429,2024-06-06,Housing,Home maintenance,1458,Expense,UPI
+SIM-000446,2024-06-06,Dining,Restaurant,430,Expense,Card
+SIM-000448,2024-06-06,Travel,Travel booking,2520,Expense,Card
+SIM-000455,2024-06-06,Dining,Food delivery,526,Expense,Cash
+SIM-000413,2024-06-07,Shopping,Home goods,1022,Expense,UPI
+SIM-000422,2024-06-07,Groceries,Fresh produce,367,Expense,Auto-debit
+SIM-000469,2024-06-07,Groceries,Weekly groceries,334,Expense,Card
+SIM-000420,2024-06-08,Personal Care,Salon visit,109,Expense,Cash
+SIM-000439,2024-06-08,Personal Care,Personal care,314,Expense,UPI
+SIM-000465,2024-06-08,Housing,Home maintenance,670,Expense,UPI
+SIM-000428,2024-06-09,Personal Care,Salon visit,207,Expense,UPI
+SIM-000453,2024-06-09,Education,Learning material,1056,Expense,UPI
+SIM-000431,2024-06-11,Shopping,Online purchase,1138,Expense,UPI
+SIM-000443,2024-06-11,Travel,Train ticket,603,Expense,UPI
+SIM-000459,2024-06-11,Entertainment,Event ticket,218,Expense,UPI
+SIM-000471,2024-06-11,Housing,Home maintenance,457,Expense,Card
+SIM-000406,2024-06-12,Subscriptions,Software plan,355,Expense,UPI
+SIM-000412,2024-06-12,Transport,Ride share,77,Expense,UPI
+SIM-000424,2024-06-12,Education,Learning material,281,Expense,Auto-debit
+SIM-000427,2024-06-12,Healthcare,Health check-up,1210,Expense,UPI
+SIM-000434,2024-06-12,Transport,Ride share,133,Expense,Card
+SIM-000438,2024-06-12,Housing,Home maintenance,919,Expense,Auto-debit
+SIM-000462,2024-06-12,Housing,Home maintenance,649,Expense,Card
+SIM-000477,2024-06-13,Transport,Fuel,197,Expense,Card
+SIM-000407,2024-06-14,Groceries,Fresh produce,488,Expense,Card
+SIM-000415,2024-06-14,Transport,Fuel,190,Expense,UPI
+SIM-000417,2024-06-14,Groceries,Fresh produce,581,Expense,UPI
+SIM-000433,2024-06-14,Personal Care,Salon visit,375,Expense,Card
+SIM-000450,2024-06-15,Personal Care,Personal care,293,Expense,Card
+SIM-000432,2024-06-17,Shopping,Clothing,527,Expense,Auto-debit
+SIM-000441,2024-06-17,Education,Course fee,1388,Expense,UPI
+SIM-000445,2024-06-17,Shopping,Clothing,565,Expense,UPI
+SIM-000405,2024-06-18,Groceries,Household supplies,494,Expense,UPI
+SIM-000418,2024-06-18,Groceries,Fresh produce,194,Expense,UPI
+SIM-000457,2024-06-18,Utilities,Water bill,568,Expense,Bank Transfer
+SIM-000467,2024-06-18,Shopping,Clothing,923,Expense,Bank Transfer
+SIM-000444,2024-06-19,Transport,Metro pass,380,Expense,UPI
+SIM-000474,2024-06-19,Subscriptions,Cloud subscription,400,Expense,Card
+SIM-000411,2024-06-20,Healthcare,Health check-up,1475,Expense,Card
+SIM-000421,2024-06-20,Subscriptions,Software plan,207,Expense,Card
+SIM-000454,2024-06-20,Shopping,Online purchase,923,Expense,Card
+SIM-000456,2024-06-20,Utilities,Internet bill,956,Expense,Auto-debit
+SIM-000414,2024-06-22,Housing,Home maintenance,1350,Expense,UPI
+SIM-000426,2024-06-22,Groceries,Weekly groceries,367,Expense,Auto-debit
+SIM-000430,2024-06-22,Subscriptions,Music subscription,262,Expense,Auto-debit
+SIM-000435,2024-06-22,Groceries,Fresh produce,138,Expense,Bank Transfer
+SIM-000466,2024-06-22,Healthcare,Health check-up,308,Expense,Card
+SIM-000476,2024-06-22,Groceries,Household supplies,107,Expense,Card
+SIM-000451,2024-06-23,Groceries,Fresh produce,397,Expense,UPI
+SIM-000458,2024-06-23,Transport,Metro pass,211,Expense,UPI
+SIM-000460,2024-06-23,Dining,Restaurant,197,Expense,UPI
+SIM-000463,2024-06-23,Subscriptions,Software plan,150,Expense,UPI
+SIM-000447,2024-06-24,Housing,Home maintenance,1167,Expense,UPI
+SIM-000464,2024-06-24,Utilities,Water bill,626,Expense,UPI
+SIM-000468,2024-06-25,Transport,Fuel,132,Expense,UPI
+SIM-000437,2024-06-26,Groceries,Fresh produce,203,Expense,Auto-debit
+SIM-000442,2024-06-26,Shopping,Home goods,780,Expense,Bank Transfer
+SIM-000472,2024-06-26,Housing,Home maintenance,743,Expense,UPI
+SIM-000479,2024-06-26,Shopping,Clothing,948,Expense,Bank Transfer
+SIM-000409,2024-06-28,Groceries,Household supplies,397,Expense,Bank Transfer
+SIM-000436,2024-06-28,Transport,Metro pass,339,Expense,UPI
+SIM-000470,2024-06-28,Housing,Home maintenance,1202,Expense,UPI
+SIM-000473,2024-06-28,Entertainment,Movie tickets,428,Expense,Cash
+SIM-000475,2024-06-28,Subscriptions,Software plan,251,Expense,Card
+SIM-000408,2024-06-29,Healthcare,Pharmacy,207,Expense,Bank Transfer
+SIM-000419,2024-06-29,Groceries,Fresh produce,199,Expense,Bank Transfer
+SIM-000478,2024-06-30,Shopping,Home goods,219,Expense,UPI
+SIM-000484,2024-07-01,Salary,Monthly simulated salary,57470,Income,Bank Transfer
+SIM-000487,2024-07-02,Utilities,Electricity bill,1018,Expense,Cash
+SIM-000528,2024-07-02,Housing,Home maintenance,930,Expense,Cash
+SIM-000539,2024-07-02,Shopping,Online purchase,794,Expense,Auto-debit
+SIM-000500,2024-07-03,Travel,Hotel booking,964,Expense,Cash
+SIM-000520,2024-07-03,Personal Care,Personal care,329,Expense,Bank Transfer
+SIM-000544,2024-07-03,Subscriptions,Software plan,365,Expense,UPI
+SIM-000550,2024-07-03,Utilities,Internet bill,1196,Expense,Card
+SIM-000501,2024-07-04,Entertainment,Digital entertainment,473,Expense,UPI
+SIM-000511,2024-07-04,Travel,Train ticket,2267,Expense,Card
+SIM-000481,2024-07-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000482,2024-07-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000483,2024-07-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000496,2024-07-05,Groceries,Fresh produce,298,Expense,Cash
+SIM-000538,2024-07-05,Groceries,Weekly groceries,364,Expense,Card
+SIM-000548,2024-07-05,Dining,Food delivery,250,Expense,Cash
+SIM-000497,2024-07-06,Utilities,Electricity bill,290,Expense,Card
+SIM-000535,2024-07-06,Personal Care,Salon visit,459,Expense,Auto-debit
+SIM-000536,2024-07-06,Utilities,Water bill,420,Expense,UPI
+SIM-000541,2024-07-06,Utilities,Water bill,614,Expense,UPI
+SIM-000560,2024-07-06,Travel,Travel booking,1385,Expense,UPI
+SIM-000486,2024-07-07,Groceries,Weekly groceries,474,Expense,Auto-debit
+SIM-000559,2024-07-07,Groceries,Household supplies,385,Expense,UPI
+SIM-000492,2024-07-08,Transport,Ride share,317,Expense,Bank Transfer
+SIM-000530,2024-07-08,Shopping,Online purchase,975,Expense,UPI
+SIM-000542,2024-07-09,Shopping,Online purchase,564,Expense,UPI
+SIM-000547,2024-07-09,Healthcare,Clinic visit,971,Expense,Card
+SIM-000514,2024-07-10,Housing,Home maintenance,903,Expense,Card
+SIM-000529,2024-07-10,Subscriptions,Software plan,164,Expense,Card
+SIM-000533,2024-07-10,Dining,Cafe,184,Expense,Auto-debit
+SIM-000523,2024-07-11,Shopping,Clothing,359,Expense,Cash
+SIM-000534,2024-07-11,Shopping,Clothing,1169,Expense,UPI
+SIM-000519,2024-07-12,Utilities,Water bill,802,Expense,Card
+SIM-000537,2024-07-12,Groceries,Weekly groceries,135,Expense,Auto-debit
+SIM-000502,2024-07-13,Groceries,Fresh produce,332,Expense,UPI
+SIM-000506,2024-07-13,Shopping,Home goods,381,Expense,UPI
+SIM-000515,2024-07-13,Dining,Food delivery,513,Expense,Auto-debit
+SIM-000521,2024-07-13,Housing,Home maintenance,920,Expense,Card
+SIM-000507,2024-07-14,Dining,Restaurant,487,Expense,UPI
+SIM-000531,2024-07-14,Personal Care,Personal care,377,Expense,Cash
+SIM-000557,2024-07-14,Groceries,Household supplies,208,Expense,UPI
+SIM-000558,2024-07-14,Groceries,Fresh produce,283,Expense,Cash
+SIM-000522,2024-07-15,Personal Care,Wellness,451,Expense,UPI
+SIM-000556,2024-07-15,Transport,Fuel,389,Expense,Card
+SIM-000505,2024-07-16,Travel,Train ticket,1385,Expense,UPI
+SIM-000512,2024-07-17,Subscriptions,Music subscription,396,Expense,Bank Transfer
+SIM-000532,2024-07-17,Entertainment,Digital entertainment,192,Expense,Card
+SIM-000540,2024-07-17,Dining,Cafe,569,Expense,Card
+SIM-000491,2024-07-18,Personal Care,Personal care,187,Expense,Card
+SIM-000494,2024-07-18,Groceries,Fresh produce,282,Expense,UPI
+SIM-000525,2024-07-18,Entertainment,Movie tickets,645,Expense,UPI
+SIM-000549,2024-07-19,Dining,Food delivery,118,Expense,Card
+SIM-000554,2024-07-19,Transport,Fuel,400,Expense,UPI
+SIM-000513,2024-07-20,Entertainment,Digital entertainment,359,Expense,UPI
+SIM-000555,2024-07-21,Transport,Ride share,208,Expense,Auto-debit
+SIM-000543,2024-07-22,Shopping,Clothing,463,Expense,Cash
+SIM-000546,2024-07-22,Housing,Home maintenance,1482,Expense,UPI
+SIM-000488,2024-07-23,Housing,Home maintenance,510,Expense,Bank Transfer
+SIM-000493,2024-07-23,Utilities,Water bill,1019,Expense,UPI
+SIM-000498,2024-07-23,Transport,Metro pass,349,Expense,Cash
+SIM-000518,2024-07-23,Personal Care,Personal care,421,Expense,Auto-debit
+SIM-000553,2024-07-23,Dining,Cafe,563,Expense,Card
+SIM-000510,2024-07-24,Dining,Cafe,393,Expense,Bank Transfer
+SIM-000545,2024-07-24,Housing,Home maintenance,843,Expense,Auto-debit
+SIM-000551,2024-07-24,Entertainment,Movie tickets,313,Expense,Bank Transfer
+SIM-000552,2024-07-24,Healthcare,Pharmacy,1446,Expense,Card
+SIM-000504,2024-07-25,Housing,Home maintenance,442,Expense,UPI
+SIM-000516,2024-07-25,Housing,Home maintenance,1229,Expense,Cash
+SIM-000517,2024-07-25,Transport,Ride share,99,Expense,Bank Transfer
+SIM-000490,2024-07-26,Dining,Food delivery,298,Expense,UPI
+SIM-000526,2024-07-26,Utilities,Internet bill,1052,Expense,UPI
+SIM-000508,2024-07-27,Education,Books and supplies,646,Expense,UPI
+SIM-000509,2024-07-27,Groceries,Household supplies,534,Expense,UPI
+SIM-000489,2024-07-29,Housing,Home maintenance,1396,Expense,UPI
+SIM-000503,2024-07-29,Shopping,Clothing,693,Expense,UPI
+SIM-000524,2024-07-30,Shopping,Home goods,126,Expense,UPI
+SIM-000527,2024-07-30,Utilities,Internet bill,1054,Expense,Cash
+SIM-000485,2024-07-31,Utilities,Electricity bill,713,Expense,UPI
+SIM-000495,2024-07-31,Housing,Home maintenance,1377,Expense,Bank Transfer
+SIM-000499,2024-07-31,Dining,Restaurant,165,Expense,Card
+SIM-000564,2024-08-01,Salary,Monthly simulated salary,53799,Income,Bank Transfer
+SIM-000617,2024-08-01,Shopping,Home goods,515,Expense,Card
+SIM-000618,2024-08-01,Dining,Restaurant,409,Expense,UPI
+SIM-000620,2024-08-01,Travel,Train ticket,2946,Expense,Bank Transfer
+SIM-000626,2024-08-01,Transport,Fuel,78,Expense,UPI
+SIM-000628,2024-08-01,Transport,Fuel,375,Expense,Card
+SIM-000633,2024-08-01,Housing,Home maintenance,1157,Expense,UPI
+SIM-000573,2024-08-02,Housing,Home maintenance,685,Expense,Card
+SIM-000590,2024-08-02,Entertainment,Digital entertainment,192,Expense,Card
+SIM-000612,2024-08-02,Dining,Restaurant,362,Expense,UPI
+SIM-000636,2024-08-02,Subscriptions,Cloud subscription,271,Expense,UPI
+SIM-000607,2024-08-03,Utilities,Electricity bill,557,Expense,Cash
+SIM-000616,2024-08-04,Housing,Home maintenance,703,Expense,Card
+SIM-000630,2024-08-04,Transport,Fuel,133,Expense,Bank Transfer
+SIM-000561,2024-08-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000562,2024-08-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000563,2024-08-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000576,2024-08-06,Groceries,Fresh produce,366,Expense,Card
+SIM-000583,2024-08-06,Groceries,Fresh produce,397,Expense,Card
+SIM-000592,2024-08-06,Transport,Metro pass,183,Expense,UPI
+SIM-000596,2024-08-06,Personal Care,Wellness,309,Expense,UPI
+SIM-000624,2024-08-06,Personal Care,Personal care,81,Expense,Card
+SIM-000565,2024-08-08,Entertainment,Movie tickets,325,Expense,Card
+SIM-000591,2024-08-08,Dining,Food delivery,172,Expense,UPI
+SIM-000604,2024-08-08,Subscriptions,Software plan,277,Expense,Auto-debit
+SIM-000579,2024-08-09,Dining,Food delivery,438,Expense,UPI
+SIM-000611,2024-08-09,Transport,Metro pass,82,Expense,UPI
+SIM-000627,2024-08-09,Travel,Travel booking,2430,Expense,UPI
+SIM-000629,2024-08-09,Personal Care,Wellness,450,Expense,Bank Transfer
+SIM-000570,2024-08-10,Travel,Hotel booking,850,Expense,Card
+SIM-000571,2024-08-10,Shopping,Clothing,1133,Expense,Auto-debit
+SIM-000594,2024-08-10,Groceries,Weekly groceries,563,Expense,Auto-debit
+SIM-000609,2024-08-10,Transport,Fuel,342,Expense,Card
+SIM-000625,2024-08-11,Shopping,Home goods,103,Expense,Auto-debit
+SIM-000637,2024-08-11,Education,Books and supplies,1534,Expense,Card
+SIM-000588,2024-08-12,Entertainment,Movie tickets,116,Expense,Card
+SIM-000601,2024-08-12,Entertainment,Movie tickets,973,Expense,UPI
+SIM-000634,2024-08-12,Dining,Food delivery,217,Expense,UPI
+SIM-000640,2024-08-13,Entertainment,Digital entertainment,742,Expense,Auto-debit
+SIM-000606,2024-08-14,Groceries,Household supplies,144,Expense,Cash
+SIM-000614,2024-08-14,Housing,Home maintenance,338,Expense,Card
+SIM-000582,2024-08-15,Groceries,Fresh produce,502,Expense,Auto-debit
+SIM-000587,2024-08-15,Housing,Home maintenance,1181,Expense,UPI
+SIM-000608,2024-08-15,Housing,Home maintenance,914,Expense,Bank Transfer
+SIM-000566,2024-08-16,Entertainment,Digital entertainment,865,Expense,Auto-debit
+SIM-000574,2024-08-16,Healthcare,Pharmacy,906,Expense,Card
+SIM-000598,2024-08-16,Healthcare,Clinic visit,315,Expense,Cash
+SIM-000569,2024-08-17,Personal Care,Personal care,220,Expense,Bank Transfer
+SIM-000600,2024-08-17,Transport,Ride share,145,Expense,Auto-debit
+SIM-000623,2024-08-17,Transport,Ride share,228,Expense,UPI
+SIM-000631,2024-08-17,Utilities,Electricity bill,1103,Expense,UPI
+SIM-000581,2024-08-19,Groceries,Fresh produce,214,Expense,Card
+SIM-000585,2024-08-19,Entertainment,Movie tickets,964,Expense,Card
+SIM-000589,2024-08-19,Dining,Restaurant,409,Expense,Bank Transfer
+SIM-000602,2024-08-19,Transport,Metro pass,379,Expense,Cash
+SIM-000621,2024-08-19,Housing,Home maintenance,1224,Expense,Cash
+SIM-000568,2024-08-20,Housing,Home maintenance,999,Expense,Auto-debit
+SIM-000597,2024-08-20,Shopping,Clothing,1132,Expense,Card
+SIM-000605,2024-08-20,Housing,Home maintenance,414,Expense,Auto-debit
+SIM-000610,2024-08-21,Personal Care,Personal care,155,Expense,Auto-debit
+SIM-000615,2024-08-21,Utilities,Electricity bill,936,Expense,UPI
+SIM-000613,2024-08-22,Transport,Metro pass,183,Expense,Card
+SIM-000567,2024-08-23,Housing,Home maintenance,644,Expense,UPI
+SIM-000599,2024-08-23,Groceries,Household supplies,191,Expense,Card
+SIM-000619,2024-08-23,Transport,Fuel,67,Expense,Bank Transfer
+SIM-000635,2024-08-23,Utilities,Electricity bill,606,Expense,UPI
+SIM-000595,2024-08-24,Groceries,Household supplies,458,Expense,Auto-debit
+SIM-000580,2024-08-25,Dining,Restaurant,91,Expense,Bank Transfer
+SIM-000575,2024-08-26,Entertainment,Event ticket,400,Expense,UPI
+SIM-000639,2024-08-26,Groceries,Weekly groceries,554,Expense,Card
+SIM-000577,2024-08-27,Housing,Home maintenance,425,Expense,Card
+SIM-000584,2024-08-28,Groceries,Household supplies,201,Expense,Cash
+SIM-000572,2024-08-29,Personal Care,Salon visit,461,Expense,Bank Transfer
+SIM-000593,2024-08-29,Shopping,Home goods,580,Expense,Auto-debit
+SIM-000586,2024-08-30,Housing,Home maintenance,1406,Expense,UPI
+SIM-000603,2024-08-30,Housing,Home maintenance,1332,Expense,UPI
+SIM-000638,2024-08-30,Groceries,Weekly groceries,219,Expense,Cash
+SIM-000578,2024-08-31,Groceries,Household supplies,258,Expense,UPI
+SIM-000622,2024-08-31,Travel,Travel booking,2949,Expense,UPI
+SIM-000632,2024-08-31,Housing,Home maintenance,539,Expense,Card
+SIM-000644,2024-09-01,Salary,Monthly simulated salary,49659,Income,Bank Transfer
+SIM-000645,2024-09-01,Freelance,Simulated freelance work,7757,Income,Bank Transfer
+SIM-000651,2024-09-01,Groceries,Fresh produce,213,Expense,Cash
+SIM-000695,2024-09-01,Transport,Ride share,99,Expense,UPI
+SIM-000694,2024-09-02,Housing,Home maintenance,487,Expense,Cash
+SIM-000715,2024-09-02,Groceries,Household supplies,372,Expense,UPI
+SIM-000720,2024-09-02,Transport,Ride share,166,Expense,Card
+SIM-000671,2024-09-03,Housing,Home maintenance,383,Expense,UPI
+SIM-000697,2024-09-03,Entertainment,Movie tickets,280,Expense,UPI
+SIM-000702,2024-09-03,Transport,Fuel,150,Expense,Card
+SIM-000641,2024-09-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000642,2024-09-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000643,2024-09-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000682,2024-09-05,Subscriptions,Cloud subscription,355,Expense,UPI
+SIM-000646,2024-09-06,Healthcare,Health check-up,729,Expense,UPI
+SIM-000667,2024-09-06,Transport,Fuel,114,Expense,Card
+SIM-000696,2024-09-07,Entertainment,Movie tickets,723,Expense,Auto-debit
+SIM-000648,2024-09-08,Groceries,Household supplies,268,Expense,UPI
+SIM-000663,2024-09-08,Transport,Fuel,168,Expense,UPI
+SIM-000665,2024-09-08,Shopping,Online purchase,837,Expense,Bank Transfer
+SIM-000672,2024-09-08,Travel,Hotel booking,2716,Expense,UPI
+SIM-000684,2024-09-08,Utilities,Internet bill,831,Expense,UPI
+SIM-000649,2024-09-09,Housing,Home maintenance,627,Expense,UPI
+SIM-000659,2024-09-09,Groceries,Household supplies,590,Expense,UPI
+SIM-000705,2024-09-09,Utilities,Electricity bill,402,Expense,Bank Transfer
+SIM-000713,2024-09-09,Entertainment,Digital entertainment,107,Expense,UPI
+SIM-000653,2024-09-10,Healthcare,Health check-up,146,Expense,Bank Transfer
+SIM-000677,2024-09-10,Travel,Hotel booking,1181,Expense,Card
+SIM-000678,2024-09-10,Transport,Fuel,100,Expense,Auto-debit
+SIM-000708,2024-09-10,Personal Care,Personal care,164,Expense,UPI
+SIM-000710,2024-09-10,Shopping,Home goods,252,Expense,Card
+SIM-000712,2024-09-10,Groceries,Fresh produce,185,Expense,UPI
+SIM-000652,2024-09-11,Personal Care,Personal care,470,Expense,Card
+SIM-000669,2024-09-12,Healthcare,Health check-up,1110,Expense,UPI
+SIM-000685,2024-09-12,Housing,Home maintenance,669,Expense,Card
+SIM-000704,2024-09-12,Groceries,Household supplies,292,Expense,UPI
+SIM-000707,2024-09-13,Groceries,Weekly groceries,473,Expense,UPI
+SIM-000660,2024-09-14,Transport,Fuel,128,Expense,Card
+SIM-000690,2024-09-14,Groceries,Household supplies,381,Expense,UPI
+SIM-000654,2024-09-15,Shopping,Online purchase,1085,Expense,Card
+SIM-000679,2024-09-15,Housing,Home maintenance,1147,Expense,UPI
+SIM-000683,2024-09-15,Healthcare,Pharmacy,515,Expense,UPI
+SIM-000709,2024-09-15,Healthcare,Clinic visit,1265,Expense,UPI
+SIM-000691,2024-09-16,Entertainment,Movie tickets,172,Expense,Bank Transfer
+SIM-000717,2024-09-16,Transport,Metro pass,359,Expense,UPI
+SIM-000666,2024-09-18,Personal Care,Wellness,432,Expense,UPI
+SIM-000673,2024-09-18,Utilities,Electricity bill,467,Expense,Card
+SIM-000687,2024-09-18,Utilities,Electricity bill,392,Expense,Card
+SIM-000703,2024-09-18,Transport,Metro pass,264,Expense,Auto-debit
+SIM-000647,2024-09-19,Travel,Hotel booking,1014,Expense,UPI
+SIM-000664,2024-09-19,Utilities,Internet bill,722,Expense,Card
+SIM-000699,2024-09-19,Housing,Home maintenance,1133,Expense,Cash
+SIM-000706,2024-09-19,Transport,Metro pass,371,Expense,UPI
+SIM-000657,2024-09-20,Groceries,Weekly groceries,166,Expense,Bank Transfer
+SIM-000680,2024-09-20,Groceries,Weekly groceries,151,Expense,Cash
+SIM-000719,2024-09-20,Subscriptions,Music subscription,376,Expense,UPI
+SIM-000686,2024-09-21,Utilities,Internet bill,687,Expense,Bank Transfer
+SIM-000689,2024-09-21,Transport,Ride share,229,Expense,Card
+SIM-000674,2024-09-22,Groceries,Household supplies,152,Expense,Auto-debit
+SIM-000698,2024-09-22,Personal Care,Personal care,324,Expense,UPI
+SIM-000714,2024-09-22,Subscriptions,Software plan,351,Expense,UPI
+SIM-000662,2024-09-23,Transport,Metro pass,151,Expense,Card
+SIM-000701,2024-09-23,Travel,Train ticket,869,Expense,Card
+SIM-000681,2024-09-24,Groceries,Fresh produce,575,Expense,Cash
+SIM-000716,2024-09-24,Healthcare,Health check-up,697,Expense,Bank Transfer
+SIM-000655,2024-09-25,Entertainment,Digital entertainment,788,Expense,Auto-debit
+SIM-000658,2024-09-25,Shopping,Clothing,763,Expense,Bank Transfer
+SIM-000668,2024-09-25,Housing,Home maintenance,499,Expense,UPI
+SIM-000670,2024-09-25,Dining,Restaurant,86,Expense,Card
+SIM-000661,2024-09-27,Transport,Metro pass,98,Expense,Auto-debit
+SIM-000675,2024-09-27,Transport,Metro pass,125,Expense,Auto-debit
+SIM-000676,2024-09-27,Groceries,Fresh produce,157,Expense,Auto-debit
+SIM-000693,2024-09-27,Shopping,Home goods,149,Expense,Card
+SIM-000700,2024-09-27,Groceries,Weekly groceries,102,Expense,Cash
+SIM-000711,2024-09-27,Dining,Restaurant,513,Expense,Card
+SIM-000656,2024-09-28,Groceries,Weekly groceries,598,Expense,Bank Transfer
+SIM-000688,2024-09-28,Education,Learning material,1629,Expense,UPI
+SIM-000692,2024-09-28,Dining,Food delivery,399,Expense,Cash
+SIM-000718,2024-09-29,Shopping,Online purchase,156,Expense,Card
+SIM-000650,2024-09-30,Utilities,Electricity bill,473,Expense,UPI
+SIM-000724,2024-10-01,Salary,Monthly simulated salary,42945,Income,Bank Transfer
+SIM-000725,2024-10-01,Freelance,Simulated freelance work,9084,Income,Bank Transfer
+SIM-000772,2024-10-01,Dining,Cafe,98,Expense,Card
+SIM-000729,2024-10-02,Groceries,Weekly groceries,248,Expense,Auto-debit
+SIM-000742,2024-10-02,Entertainment,Digital entertainment,846,Expense,Cash
+SIM-000794,2024-10-02,Dining,Cafe,262,Expense,Auto-debit
+SIM-000741,2024-10-03,Entertainment,Movie tickets,150,Expense,Cash
+SIM-000752,2024-10-03,Housing,Home maintenance,318,Expense,Bank Transfer
+SIM-000728,2024-10-04,Shopping,Clothing,361,Expense,UPI
+SIM-000733,2024-10-04,Groceries,Fresh produce,295,Expense,Card
+SIM-000750,2024-10-04,Groceries,Fresh produce,236,Expense,Card
+SIM-000759,2024-10-04,Shopping,Home goods,1116,Expense,Auto-debit
+SIM-000782,2024-10-04,Groceries,Household supplies,329,Expense,Auto-debit
+SIM-000721,2024-10-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000722,2024-10-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000723,2024-10-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000756,2024-10-05,Housing,Home maintenance,748,Expense,Auto-debit
+SIM-000767,2024-10-05,Shopping,Home goods,123,Expense,Card
+SIM-000773,2024-10-05,Shopping,Online purchase,515,Expense,UPI
+SIM-000793,2024-10-05,Groceries,Weekly groceries,331,Expense,UPI
+SIM-000744,2024-10-06,Dining,Food delivery,426,Expense,Card
+SIM-000760,2024-10-06,Utilities,Internet bill,156,Expense,Auto-debit
+SIM-000732,2024-10-07,Dining,Cafe,596,Expense,UPI
+SIM-000735,2024-10-08,Shopping,Clothing,679,Expense,UPI
+SIM-000757,2024-10-08,Transport,Ride share,380,Expense,UPI
+SIM-000766,2024-10-08,Groceries,Fresh produce,148,Expense,UPI
+SIM-000768,2024-10-08,Housing,Home maintenance,722,Expense,Card
+SIM-000779,2024-10-08,Groceries,Weekly groceries,231,Expense,Card
+SIM-000743,2024-10-10,Dining,Cafe,560,Expense,Auto-debit
+SIM-000796,2024-10-10,Transport,Ride share,103,Expense,Bank Transfer
+SIM-000730,2024-10-11,Groceries,Household supplies,474,Expense,UPI
+SIM-000746,2024-10-11,Healthcare,Pharmacy,774,Expense,Card
+SIM-000755,2024-10-11,Utilities,Water bill,155,Expense,UPI
+SIM-000737,2024-10-13,Personal Care,Salon visit,158,Expense,Card
+SIM-000738,2024-10-13,Groceries,Fresh produce,218,Expense,Card
+SIM-000747,2024-10-13,Groceries,Fresh produce,526,Expense,Card
+SIM-000775,2024-10-14,Housing,Home maintenance,465,Expense,UPI
+SIM-000776,2024-10-14,Personal Care,Salon visit,148,Expense,UPI
+SIM-000788,2024-10-14,Groceries,Weekly groceries,143,Expense,Bank Transfer
+SIM-000774,2024-10-16,Transport,Metro pass,30,Expense,UPI
+SIM-000795,2024-10-16,Shopping,Home goods,442,Expense,UPI
+SIM-000736,2024-10-17,Utilities,Internet bill,1126,Expense,Cash
+SIM-000761,2024-10-17,Subscriptions,Cloud subscription,398,Expense,UPI
+SIM-000771,2024-10-17,Dining,Food delivery,403,Expense,Cash
+SIM-000784,2024-10-17,Shopping,Home goods,274,Expense,Cash
+SIM-000792,2024-10-17,Dining,Food delivery,317,Expense,Cash
+SIM-000777,2024-10-18,Housing,Home maintenance,952,Expense,Card
+SIM-000727,2024-10-19,Subscriptions,Music subscription,272,Expense,Cash
+SIM-000764,2024-10-19,Groceries,Household supplies,571,Expense,Auto-debit
+SIM-000787,2024-10-19,Groceries,Weekly groceries,323,Expense,UPI
+SIM-000748,2024-10-20,Dining,Cafe,455,Expense,Cash
+SIM-000749,2024-10-20,Shopping,Online purchase,1142,Expense,Card
+SIM-000765,2024-10-20,Healthcare,Health check-up,1333,Expense,Card
+SIM-000780,2024-10-20,Groceries,Household supplies,408,Expense,Cash
+SIM-000781,2024-10-21,Transport,Ride share,254,Expense,Card
+SIM-000783,2024-10-21,Groceries,Fresh produce,379,Expense,Cash
+SIM-000800,2024-10-21,Housing,Home maintenance,589,Expense,UPI
+SIM-000734,2024-10-22,Shopping,Home goods,929,Expense,Auto-debit
+SIM-000751,2024-10-22,Subscriptions,Cloud subscription,198,Expense,Card
+SIM-000762,2024-10-22,Shopping,Home goods,648,Expense,UPI
+SIM-000790,2024-10-23,Housing,Home maintenance,1396,Expense,UPI
+SIM-000799,2024-10-23,Transport,Ride share,237,Expense,UPI
+SIM-000731,2024-10-24,Dining,Cafe,519,Expense,UPI
+SIM-000769,2024-10-24,Utilities,Electricity bill,789,Expense,Auto-debit
+SIM-000789,2024-10-25,Education,Books and supplies,1375,Expense,UPI
+SIM-000740,2024-10-26,Entertainment,Movie tickets,187,Expense,Auto-debit
+SIM-000786,2024-10-26,Groceries,Weekly groceries,277,Expense,UPI
+SIM-000726,2024-10-27,Housing,Home maintenance,738,Expense,UPI
+SIM-000754,2024-10-27,Transport,Ride share,43,Expense,Card
+SIM-000758,2024-10-27,Shopping,Clothing,522,Expense,Bank Transfer
+SIM-000797,2024-10-28,Shopping,Online purchase,486,Expense,Auto-debit
+SIM-000798,2024-10-28,Housing,Home maintenance,1001,Expense,Card
+SIM-000739,2024-10-29,Groceries,Household supplies,482,Expense,UPI
+SIM-000770,2024-10-29,Groceries,Household supplies,124,Expense,Bank Transfer
+SIM-000785,2024-10-29,Subscriptions,Cloud subscription,135,Expense,Auto-debit
+SIM-000753,2024-10-30,Dining,Food delivery,388,Expense,UPI
+SIM-000763,2024-10-30,Dining,Food delivery,339,Expense,UPI
+SIM-000778,2024-10-30,Dining,Food delivery,249,Expense,Cash
+SIM-000791,2024-10-30,Utilities,Water bill,725,Expense,Card
+SIM-000745,2024-10-31,Entertainment,Event ticket,549,Expense,UPI
+SIM-000804,2024-11-01,Salary,Monthly simulated salary,52663,Income,Bank Transfer
+SIM-000809,2024-11-01,Shopping,Online purchase,831,Expense,Bank Transfer
+SIM-000853,2024-11-01,Personal Care,Wellness,284,Expense,UPI
+SIM-000864,2024-11-02,Utilities,Internet bill,309,Expense,Card
+SIM-000819,2024-11-03,Groceries,Household supplies,391,Expense,UPI
+SIM-000827,2024-11-03,Personal Care,Personal care,180,Expense,UPI
+SIM-000812,2024-11-04,Healthcare,Clinic visit,1168,Expense,Bank Transfer
+SIM-000817,2024-11-04,Transport,Fuel,205,Expense,Bank Transfer
+SIM-000842,2024-11-04,Education,Books and supplies,1258,Expense,UPI
+SIM-000854,2024-11-04,Dining,Cafe,224,Expense,UPI
+SIM-000801,2024-11-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000802,2024-11-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000803,2024-11-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000821,2024-11-05,Transport,Ride share,381,Expense,Card
+SIM-000845,2024-11-05,Subscriptions,Music subscription,113,Expense,Cash
+SIM-000875,2024-11-05,Housing,Home maintenance,781,Expense,Card
+SIM-000876,2024-11-05,Groceries,Weekly groceries,197,Expense,Card
+SIM-000805,2024-11-06,Transport,Fuel,189,Expense,Card
+SIM-000826,2024-11-07,Education,Course fee,834,Expense,Cash
+SIM-000866,2024-11-07,Dining,Food delivery,386,Expense,Bank Transfer
+SIM-000806,2024-11-08,Housing,Home maintenance,1288,Expense,UPI
+SIM-000820,2024-11-08,Entertainment,Event ticket,768,Expense,UPI
+SIM-000831,2024-11-08,Groceries,Fresh produce,471,Expense,Bank Transfer
+SIM-000835,2024-11-08,Transport,Fuel,292,Expense,Card
+SIM-000868,2024-11-10,Shopping,Home goods,690,Expense,Auto-debit
+SIM-000818,2024-11-11,Entertainment,Movie tickets,689,Expense,Bank Transfer
+SIM-000848,2024-11-11,Dining,Restaurant,243,Expense,Cash
+SIM-000852,2024-11-11,Dining,Food delivery,358,Expense,Bank Transfer
+SIM-000815,2024-11-12,Healthcare,Health check-up,754,Expense,Card
+SIM-000816,2024-11-12,Transport,Metro pass,214,Expense,Card
+SIM-000832,2024-11-12,Groceries,Weekly groceries,359,Expense,UPI
+SIM-000810,2024-11-13,Personal Care,Personal care,174,Expense,Cash
+SIM-000829,2024-11-13,Personal Care,Personal care,80,Expense,Card
+SIM-000870,2024-11-13,Transport,Ride share,283,Expense,UPI
+SIM-000871,2024-11-13,Groceries,Fresh produce,307,Expense,UPI
+SIM-000858,2024-11-14,Dining,Restaurant,136,Expense,UPI
+SIM-000862,2024-11-14,Transport,Fuel,105,Expense,Cash
+SIM-000837,2024-11-15,Utilities,Electricity bill,961,Expense,UPI
+SIM-000838,2024-11-15,Groceries,Household supplies,596,Expense,UPI
+SIM-000847,2024-11-15,Groceries,Fresh produce,158,Expense,UPI
+SIM-000857,2024-11-15,Groceries,Household supplies,379,Expense,UPI
+SIM-000877,2024-11-15,Utilities,Electricity bill,703,Expense,UPI
+SIM-000839,2024-11-16,Entertainment,Movie tickets,854,Expense,UPI
+SIM-000843,2024-11-16,Travel,Train ticket,1502,Expense,Cash
+SIM-000861,2024-11-16,Shopping,Home goods,910,Expense,UPI
+SIM-000823,2024-11-17,Shopping,Online purchase,135,Expense,Card
+SIM-000825,2024-11-17,Shopping,Home goods,881,Expense,Card
+SIM-000834,2024-11-17,Housing,Home maintenance,1012,Expense,UPI
+SIM-000872,2024-11-17,Transport,Fuel,141,Expense,UPI
+SIM-000808,2024-11-18,Housing,Home maintenance,1295,Expense,Cash
+SIM-000841,2024-11-18,Dining,Food delivery,353,Expense,Cash
+SIM-000859,2024-11-19,Dining,Food delivery,108,Expense,Auto-debit
+SIM-000867,2024-11-19,Utilities,Electricity bill,518,Expense,Card
+SIM-000846,2024-11-20,Utilities,Internet bill,710,Expense,UPI
+SIM-000824,2024-11-21,Subscriptions,Software plan,302,Expense,Card
+SIM-000849,2024-11-22,Dining,Restaurant,360,Expense,Auto-debit
+SIM-000807,2024-11-23,Entertainment,Digital entertainment,993,Expense,Bank Transfer
+SIM-000860,2024-11-23,Personal Care,Wellness,99,Expense,UPI
+SIM-000865,2024-11-23,Transport,Ride share,121,Expense,UPI
+SIM-000840,2024-11-24,Subscriptions,Cloud subscription,372,Expense,Cash
+SIM-000855,2024-11-24,Entertainment,Movie tickets,265,Expense,UPI
+SIM-000814,2024-11-25,Transport,Fuel,175,Expense,UPI
+SIM-000830,2024-11-25,Transport,Ride share,123,Expense,Card
+SIM-000851,2024-11-25,Personal Care,Personal care,435,Expense,Card
+SIM-000828,2024-11-26,Groceries,Weekly groceries,581,Expense,Card
+SIM-000836,2024-11-26,Groceries,Weekly groceries,367,Expense,Bank Transfer
+SIM-000850,2024-11-26,Utilities,Internet bill,881,Expense,Cash
+SIM-000833,2024-11-27,Housing,Home maintenance,537,Expense,UPI
+SIM-000856,2024-11-27,Groceries,Weekly groceries,204,Expense,UPI
+SIM-000873,2024-11-27,Dining,Food delivery,318,Expense,UPI
+SIM-000879,2024-11-27,Groceries,Weekly groceries,591,Expense,Card
+SIM-000811,2024-11-28,Transport,Ride share,373,Expense,Card
+SIM-000813,2024-11-28,Utilities,Electricity bill,533,Expense,UPI
+SIM-000874,2024-11-28,Housing,Home maintenance,442,Expense,UPI
+SIM-000863,2024-11-29,Dining,Food delivery,418,Expense,UPI
+SIM-000869,2024-11-29,Dining,Food delivery,304,Expense,Cash
+SIM-000878,2024-11-29,Groceries,Fresh produce,299,Expense,UPI
+SIM-000822,2024-11-30,Subscriptions,Music subscription,248,Expense,UPI
+SIM-000844,2024-11-30,Shopping,Online purchase,412,Expense,Bank Transfer
+SIM-000880,2024-11-30,Dining,Cafe,461,Expense,Auto-debit
+SIM-000884,2024-12-01,Salary,Monthly simulated salary,37653,Income,Bank Transfer
+SIM-000885,2024-12-01,Freelance,Simulated freelance work,13554,Income,Bank Transfer
+SIM-000898,2024-12-01,Housing,Home maintenance,457,Expense,UPI
+SIM-000900,2024-12-01,Shopping,Home goods,1154,Expense,Bank Transfer
+SIM-000938,2024-12-01,Utilities,Water bill,772,Expense,Card
+SIM-000949,2024-12-01,Dining,Restaurant,315,Expense,Cash
+SIM-000891,2024-12-02,Subscriptions,Software plan,182,Expense,Auto-debit
+SIM-000921,2024-12-03,Housing,Home maintenance,778,Expense,Cash
+SIM-000922,2024-12-04,Transport,Fuel,241,Expense,UPI
+SIM-000881,2024-12-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000882,2024-12-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000883,2024-12-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000889,2024-12-05,Entertainment,Digital entertainment,565,Expense,Cash
+SIM-000906,2024-12-05,Housing,Home maintenance,989,Expense,UPI
+SIM-000912,2024-12-05,Healthcare,Health check-up,388,Expense,Bank Transfer
+SIM-000913,2024-12-05,Shopping,Home goods,440,Expense,Card
+SIM-000934,2024-12-06,Housing,Home maintenance,1360,Expense,UPI
+SIM-000948,2024-12-06,Housing,Home maintenance,1117,Expense,Cash
+SIM-000952,2024-12-06,Transport,Metro pass,283,Expense,Card
+SIM-000902,2024-12-07,Transport,Metro pass,154,Expense,UPI
+SIM-000930,2024-12-07,Housing,Home maintenance,1364,Expense,UPI
+SIM-000932,2024-12-07,Dining,Cafe,159,Expense,UPI
+SIM-000903,2024-12-08,Groceries,Weekly groceries,441,Expense,Bank Transfer
+SIM-000916,2024-12-08,Dining,Cafe,226,Expense,UPI
+SIM-000933,2024-12-08,Housing,Home maintenance,1017,Expense,Card
+SIM-000939,2024-12-08,Housing,Home maintenance,566,Expense,UPI
+SIM-000923,2024-12-09,Groceries,Fresh produce,525,Expense,Card
+SIM-000897,2024-12-10,Housing,Home maintenance,1088,Expense,Auto-debit
+SIM-000929,2024-12-10,Transport,Ride share,268,Expense,Auto-debit
+SIM-000936,2024-12-10,Transport,Metro pass,36,Expense,Auto-debit
+SIM-000944,2024-12-10,Groceries,Fresh produce,295,Expense,UPI
+SIM-000946,2024-12-10,Entertainment,Movie tickets,677,Expense,Cash
+SIM-000959,2024-12-10,Subscriptions,Software plan,154,Expense,UPI
+SIM-000890,2024-12-11,Transport,Fuel,87,Expense,UPI
+SIM-000894,2024-12-11,Utilities,Water bill,867,Expense,Card
+SIM-000960,2024-12-11,Dining,Restaurant,500,Expense,UPI
+SIM-000887,2024-12-12,Personal Care,Salon visit,359,Expense,Auto-debit
+SIM-000925,2024-12-12,Housing,Home maintenance,576,Expense,Auto-debit
+SIM-000888,2024-12-13,Groceries,Fresh produce,562,Expense,Card
+SIM-000908,2024-12-13,Transport,Metro pass,334,Expense,Cash
+SIM-000935,2024-12-13,Transport,Ride share,271,Expense,Cash
+SIM-000942,2024-12-13,Education,Books and supplies,1775,Expense,Auto-debit
+SIM-000886,2024-12-14,Utilities,Internet bill,1125,Expense,UPI
+SIM-000919,2024-12-14,Entertainment,Movie tickets,729,Expense,UPI
+SIM-000928,2024-12-14,Entertainment,Event ticket,450,Expense,Auto-debit
+SIM-000896,2024-12-15,Dining,Food delivery,464,Expense,UPI
+SIM-000914,2024-12-15,Healthcare,Pharmacy,1255,Expense,UPI
+SIM-000924,2024-12-15,Utilities,Water bill,969,Expense,UPI
+SIM-000957,2024-12-15,Groceries,Fresh produce,599,Expense,UPI
+SIM-000955,2024-12-16,Entertainment,Movie tickets,785,Expense,Bank Transfer
+SIM-000893,2024-12-19,Groceries,Weekly groceries,227,Expense,Card
+SIM-000926,2024-12-20,Entertainment,Digital entertainment,921,Expense,UPI
+SIM-000953,2024-12-20,Groceries,Weekly groceries,445,Expense,Auto-debit
+SIM-000958,2024-12-20,Shopping,Home goods,137,Expense,Cash
+SIM-000907,2024-12-21,Transport,Metro pass,124,Expense,Auto-debit
+SIM-000917,2024-12-21,Shopping,Online purchase,749,Expense,UPI
+SIM-000947,2024-12-21,Utilities,Water bill,583,Expense,Auto-debit
+SIM-000950,2024-12-21,Groceries,Household supplies,506,Expense,UPI
+SIM-000909,2024-12-23,Entertainment,Movie tickets,651,Expense,Card
+SIM-000937,2024-12-23,Shopping,Home goods,206,Expense,Auto-debit
+SIM-000911,2024-12-24,Groceries,Weekly groceries,220,Expense,UPI
+SIM-000915,2024-12-24,Personal Care,Salon visit,116,Expense,Bank Transfer
+SIM-000918,2024-12-24,Groceries,Household supplies,229,Expense,Auto-debit
+SIM-000941,2024-12-24,Housing,Home maintenance,857,Expense,Card
+SIM-000901,2024-12-25,Groceries,Weekly groceries,194,Expense,Auto-debit
+SIM-000931,2024-12-25,Dining,Restaurant,396,Expense,Card
+SIM-000940,2024-12-25,Dining,Restaurant,506,Expense,UPI
+SIM-000956,2024-12-25,Groceries,Weekly groceries,119,Expense,UPI
+SIM-000899,2024-12-26,Housing,Home maintenance,1194,Expense,UPI
+SIM-000892,2024-12-28,Groceries,Household supplies,180,Expense,Cash
+SIM-000910,2024-12-28,Housing,Home maintenance,1193,Expense,Card
+SIM-000927,2024-12-28,Dining,Restaurant,277,Expense,Auto-debit
+SIM-000954,2024-12-28,Transport,Metro pass,230,Expense,UPI
+SIM-000895,2024-12-29,Housing,Home maintenance,976,Expense,Auto-debit
+SIM-000904,2024-12-29,Personal Care,Wellness,117,Expense,Card
+SIM-000905,2024-12-29,Housing,Home maintenance,952,Expense,UPI
+SIM-000951,2024-12-29,Groceries,Weekly groceries,266,Expense,UPI
+SIM-000920,2024-12-30,Entertainment,Digital entertainment,324,Expense,UPI
+SIM-000943,2024-12-30,Subscriptions,Cloud subscription,138,Expense,UPI
+SIM-000945,2024-12-30,Groceries,Household supplies,210,Expense,Auto-debit
+SIM-000964,2025-01-01,Salary,Monthly simulated salary,38713,Income,Bank Transfer
+SIM-000965,2025-01-01,Freelance,Simulated freelance work,4508,Income,Bank Transfer
+SIM-000966,2025-01-01,Investment Income,Simulated investment distribution,816,Income,Bank Transfer
+SIM-000974,2025-01-01,Groceries,Weekly groceries,128,Expense,UPI
+SIM-000996,2025-01-01,Groceries,Weekly groceries,139,Expense,Cash
+SIM-001006,2025-01-01,Transport,Fuel,388,Expense,Cash
+SIM-000968,2025-01-02,Groceries,Household supplies,458,Expense,Card
+SIM-000985,2025-01-02,Shopping,Clothing,936,Expense,Cash
+SIM-001004,2025-01-02,Transport,Fuel,63,Expense,Card
+SIM-001009,2025-01-02,Entertainment,Event ticket,930,Expense,UPI
+SIM-001022,2025-01-02,Utilities,Water bill,678,Expense,UPI
+SIM-001028,2025-01-02,Education,Books and supplies,1763,Expense,UPI
+SIM-000969,2025-01-03,Dining,Restaurant,114,Expense,UPI
+SIM-000978,2025-01-03,Healthcare,Clinic visit,891,Expense,Auto-debit
+SIM-001017,2025-01-03,Groceries,Household supplies,221,Expense,UPI
+SIM-000993,2025-01-04,Transport,Ride share,390,Expense,Card
+SIM-000995,2025-01-04,Shopping,Clothing,991,Expense,Card
+SIM-001020,2025-01-04,Groceries,Weekly groceries,450,Expense,Cash
+SIM-001039,2025-01-04,Transport,Ride share,322,Expense,UPI
+SIM-000961,2025-01-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-000962,2025-01-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-000963,2025-01-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-000976,2025-01-05,Housing,Home maintenance,1029,Expense,Card
+SIM-001014,2025-01-05,Entertainment,Movie tickets,822,Expense,Card
+SIM-001021,2025-01-05,Shopping,Home goods,749,Expense,Bank Transfer
+SIM-001003,2025-01-06,Groceries,Weekly groceries,520,Expense,Card
+SIM-001012,2025-01-06,Groceries,Fresh produce,469,Expense,UPI
+SIM-001019,2025-01-06,Transport,Ride share,156,Expense,Bank Transfer
+SIM-001025,2025-01-06,Utilities,Water bill,481,Expense,Card
+SIM-000977,2025-01-07,Dining,Restaurant,417,Expense,Card
+SIM-000981,2025-01-07,Groceries,Fresh produce,154,Expense,UPI
+SIM-001023,2025-01-07,Utilities,Electricity bill,645,Expense,UPI
+SIM-001034,2025-01-08,Dining,Restaurant,587,Expense,UPI
+SIM-000984,2025-01-09,Groceries,Household supplies,137,Expense,UPI
+SIM-000967,2025-01-10,Education,Books and supplies,1598,Expense,Auto-debit
+SIM-000970,2025-01-10,Dining,Restaurant,594,Expense,Cash
+SIM-000979,2025-01-10,Entertainment,Movie tickets,931,Expense,Auto-debit
+SIM-000990,2025-01-10,Utilities,Water bill,823,Expense,Card
+SIM-001010,2025-01-10,Dining,Restaurant,117,Expense,Auto-debit
+SIM-001013,2025-01-10,Groceries,Household supplies,263,Expense,Card
+SIM-001026,2025-01-10,Dining,Restaurant,439,Expense,Cash
+SIM-000987,2025-01-11,Dining,Food delivery,331,Expense,Card
+SIM-000992,2025-01-11,Healthcare,Pharmacy,494,Expense,Bank Transfer
+SIM-001015,2025-01-13,Shopping,Online purchase,201,Expense,Card
+SIM-001027,2025-01-13,Dining,Restaurant,150,Expense,Card
+SIM-001038,2025-01-13,Shopping,Online purchase,668,Expense,UPI
+SIM-000989,2025-01-14,Groceries,Weekly groceries,578,Expense,UPI
+SIM-001008,2025-01-14,Utilities,Electricity bill,381,Expense,Auto-debit
+SIM-001033,2025-01-14,Travel,Hotel booking,685,Expense,UPI
+SIM-000997,2025-01-15,Groceries,Weekly groceries,520,Expense,UPI
+SIM-001002,2025-01-15,Dining,Restaurant,97,Expense,UPI
+SIM-001007,2025-01-15,Transport,Ride share,79,Expense,Auto-debit
+SIM-001024,2025-01-15,Healthcare,Health check-up,890,Expense,Cash
+SIM-001030,2025-01-15,Education,Books and supplies,735,Expense,UPI
+SIM-001031,2025-01-15,Subscriptions,Software plan,377,Expense,Card
+SIM-001036,2025-01-15,Dining,Restaurant,417,Expense,UPI
+SIM-000988,2025-01-17,Groceries,Weekly groceries,283,Expense,UPI
+SIM-001001,2025-01-17,Transport,Fuel,82,Expense,UPI
+SIM-001011,2025-01-17,Travel,Hotel booking,2422,Expense,UPI
+SIM-001018,2025-01-17,Utilities,Internet bill,719,Expense,UPI
+SIM-001037,2025-01-17,Shopping,Home goods,648,Expense,Bank Transfer
+SIM-001040,2025-01-17,Transport,Fuel,50,Expense,UPI
+SIM-001000,2025-01-18,Entertainment,Event ticket,734,Expense,Bank Transfer
+SIM-001032,2025-01-18,Housing,Home maintenance,1122,Expense,Card
+SIM-000982,2025-01-22,Utilities,Electricity bill,1168,Expense,Card
+SIM-000972,2025-01-23,Subscriptions,Software plan,209,Expense,UPI
+SIM-001005,2025-01-23,Utilities,Internet bill,902,Expense,Card
+SIM-001029,2025-01-23,Transport,Ride share,187,Expense,UPI
+SIM-000991,2025-01-25,Education,Learning material,740,Expense,UPI
+SIM-000986,2025-01-26,Groceries,Household supplies,591,Expense,UPI
+SIM-000975,2025-01-27,Entertainment,Movie tickets,229,Expense,UPI
+SIM-000983,2025-01-27,Groceries,Household supplies,474,Expense,UPI
+SIM-001016,2025-01-27,Housing,Home maintenance,381,Expense,UPI
+SIM-000980,2025-01-29,Dining,Cafe,521,Expense,UPI
+SIM-001035,2025-01-29,Entertainment,Digital entertainment,866,Expense,UPI
+SIM-000973,2025-01-30,Transport,Fuel,311,Expense,Card
+SIM-000994,2025-01-30,Housing,Home maintenance,887,Expense,UPI
+SIM-000999,2025-01-30,Groceries,Household supplies,256,Expense,Cash
+SIM-000971,2025-01-31,Entertainment,Event ticket,530,Expense,UPI
+SIM-000998,2025-01-31,Groceries,Fresh produce,482,Expense,Auto-debit
+SIM-001044,2025-02-01,Salary,Monthly simulated salary,53521,Income,Bank Transfer
+SIM-001069,2025-02-01,Healthcare,Clinic visit,956,Expense,Cash
+SIM-001045,2025-02-02,Groceries,Weekly groceries,525,Expense,Bank Transfer
+SIM-001077,2025-02-02,Transport,Fuel,393,Expense,Card
+SIM-001108,2025-02-03,Shopping,Home goods,338,Expense,Bank Transfer
+SIM-001089,2025-02-04,Entertainment,Digital entertainment,310,Expense,Card
+SIM-001041,2025-02-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001042,2025-02-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001043,2025-02-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001055,2025-02-05,Groceries,Fresh produce,596,Expense,Bank Transfer
+SIM-001062,2025-02-05,Education,Books and supplies,1878,Expense,Card
+SIM-001104,2025-02-05,Transport,Fuel,339,Expense,Cash
+SIM-001064,2025-02-06,Dining,Food delivery,470,Expense,Cash
+SIM-001065,2025-02-06,Entertainment,Digital entertainment,656,Expense,Card
+SIM-001106,2025-02-06,Groceries,Household supplies,153,Expense,Auto-debit
+SIM-001113,2025-02-06,Housing,Home maintenance,1215,Expense,UPI
+SIM-001115,2025-02-06,Groceries,Weekly groceries,558,Expense,Auto-debit
+SIM-001072,2025-02-07,Personal Care,Wellness,488,Expense,Auto-debit
+SIM-001081,2025-02-07,Subscriptions,Cloud subscription,140,Expense,Card
+SIM-001095,2025-02-07,Utilities,Electricity bill,987,Expense,UPI
+SIM-001097,2025-02-07,Personal Care,Wellness,261,Expense,UPI
+SIM-001112,2025-02-07,Housing,Home maintenance,1432,Expense,UPI
+SIM-001071,2025-02-08,Dining,Cafe,350,Expense,Cash
+SIM-001084,2025-02-08,Transport,Fuel,138,Expense,Bank Transfer
+SIM-001100,2025-02-08,Housing,Home maintenance,571,Expense,Cash
+SIM-001109,2025-02-08,Healthcare,Clinic visit,1099,Expense,Bank Transfer
+SIM-001051,2025-02-09,Dining,Restaurant,217,Expense,UPI
+SIM-001059,2025-02-09,Dining,Cafe,331,Expense,Auto-debit
+SIM-001050,2025-02-10,Healthcare,Health check-up,721,Expense,UPI
+SIM-001080,2025-02-10,Housing,Home maintenance,1367,Expense,Card
+SIM-001117,2025-02-10,Housing,Home maintenance,454,Expense,UPI
+SIM-001052,2025-02-11,Groceries,Household supplies,151,Expense,UPI
+SIM-001075,2025-02-11,Groceries,Fresh produce,500,Expense,Card
+SIM-001111,2025-02-11,Utilities,Electricity bill,399,Expense,Bank Transfer
+SIM-001116,2025-02-11,Dining,Food delivery,205,Expense,Card
+SIM-001118,2025-02-11,Healthcare,Health check-up,1284,Expense,UPI
+SIM-001068,2025-02-12,Utilities,Water bill,1040,Expense,Card
+SIM-001107,2025-02-12,Dining,Food delivery,326,Expense,UPI
+SIM-001049,2025-02-13,Personal Care,Salon visit,180,Expense,UPI
+SIM-001102,2025-02-13,Dining,Food delivery,270,Expense,UPI
+SIM-001110,2025-02-13,Groceries,Weekly groceries,125,Expense,Cash
+SIM-001057,2025-02-14,Transport,Metro pass,322,Expense,UPI
+SIM-001060,2025-02-15,Transport,Metro pass,195,Expense,Card
+SIM-001074,2025-02-15,Entertainment,Movie tickets,569,Expense,Bank Transfer
+SIM-001098,2025-02-15,Groceries,Weekly groceries,594,Expense,Auto-debit
+SIM-001099,2025-02-15,Groceries,Weekly groceries,171,Expense,UPI
+SIM-001061,2025-02-16,Utilities,Internet bill,858,Expense,Bank Transfer
+SIM-001088,2025-02-16,Transport,Ride share,340,Expense,UPI
+SIM-001086,2025-02-17,Entertainment,Event ticket,554,Expense,Auto-debit
+SIM-001090,2025-02-17,Utilities,Electricity bill,526,Expense,Bank Transfer
+SIM-001120,2025-02-17,Utilities,Water bill,428,Expense,UPI
+SIM-001073,2025-02-18,Entertainment,Digital entertainment,864,Expense,Card
+SIM-001078,2025-02-18,Groceries,Weekly groceries,453,Expense,Bank Transfer
+SIM-001101,2025-02-18,Utilities,Internet bill,116,Expense,Card
+SIM-001046,2025-02-19,Utilities,Electricity bill,220,Expense,UPI
+SIM-001047,2025-02-19,Transport,Fuel,62,Expense,Bank Transfer
+SIM-001053,2025-02-20,Dining,Food delivery,474,Expense,UPI
+SIM-001054,2025-02-20,Shopping,Clothing,994,Expense,UPI
+SIM-001063,2025-02-20,Transport,Fuel,60,Expense,Card
+SIM-001079,2025-02-20,Housing,Home maintenance,1011,Expense,UPI
+SIM-001058,2025-02-21,Housing,Home maintenance,1202,Expense,Bank Transfer
+SIM-001070,2025-02-21,Healthcare,Clinic visit,795,Expense,Bank Transfer
+SIM-001091,2025-02-21,Housing,Home maintenance,1195,Expense,UPI
+SIM-001094,2025-02-22,Transport,Ride share,174,Expense,Bank Transfer
+SIM-001067,2025-02-23,Groceries,Fresh produce,215,Expense,Cash
+SIM-001092,2025-02-23,Entertainment,Event ticket,664,Expense,Cash
+SIM-001048,2025-02-24,Travel,Hotel booking,2264,Expense,Card
+SIM-001083,2025-02-25,Subscriptions,Cloud subscription,294,Expense,UPI
+SIM-001105,2025-02-25,Healthcare,Health check-up,390,Expense,Cash
+SIM-001114,2025-02-25,Groceries,Weekly groceries,308,Expense,Bank Transfer
+SIM-001056,2025-02-26,Travel,Train ticket,383,Expense,Bank Transfer
+SIM-001085,2025-02-26,Transport,Fuel,219,Expense,Card
+SIM-001093,2025-02-26,Education,Books and supplies,1642,Expense,Card
+SIM-001119,2025-02-26,Utilities,Internet bill,970,Expense,Bank Transfer
+SIM-001066,2025-02-27,Groceries,Fresh produce,528,Expense,Card
+SIM-001076,2025-02-27,Groceries,Fresh produce,176,Expense,Bank Transfer
+SIM-001103,2025-02-27,Utilities,Electricity bill,657,Expense,UPI
+SIM-001082,2025-02-28,Transport,Metro pass,400,Expense,UPI
+SIM-001087,2025-02-28,Groceries,Weekly groceries,260,Expense,Bank Transfer
+SIM-001096,2025-02-28,Groceries,Fresh produce,384,Expense,Auto-debit
+SIM-001124,2025-03-01,Salary,Monthly simulated salary,43345,Income,Bank Transfer
+SIM-001142,2025-03-01,Groceries,Fresh produce,529,Expense,Card
+SIM-001160,2025-03-01,Groceries,Weekly groceries,125,Expense,Cash
+SIM-001127,2025-03-02,Utilities,Water bill,361,Expense,UPI
+SIM-001148,2025-03-03,Utilities,Internet bill,445,Expense,UPI
+SIM-001169,2025-03-03,Housing,Home maintenance,828,Expense,Cash
+SIM-001195,2025-03-03,Travel,Travel booking,860,Expense,Card
+SIM-001157,2025-03-04,Groceries,Weekly groceries,381,Expense,Cash
+SIM-001121,2025-03-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001122,2025-03-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001123,2025-03-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001162,2025-03-05,Healthcare,Health check-up,1331,Expense,UPI
+SIM-001164,2025-03-05,Housing,Home maintenance,1123,Expense,Bank Transfer
+SIM-001191,2025-03-05,Shopping,Online purchase,662,Expense,Card
+SIM-001133,2025-03-06,Subscriptions,Cloud subscription,328,Expense,Auto-debit
+SIM-001180,2025-03-06,Housing,Home maintenance,433,Expense,UPI
+SIM-001200,2025-03-06,Groceries,Household supplies,510,Expense,Card
+SIM-001156,2025-03-07,Dining,Restaurant,437,Expense,UPI
+SIM-001194,2025-03-07,Transport,Fuel,350,Expense,UPI
+SIM-001128,2025-03-08,Healthcare,Clinic visit,1153,Expense,Card
+SIM-001144,2025-03-08,Housing,Home maintenance,996,Expense,UPI
+SIM-001147,2025-03-08,Travel,Train ticket,745,Expense,Auto-debit
+SIM-001154,2025-03-08,Travel,Hotel booking,1262,Expense,Auto-debit
+SIM-001185,2025-03-08,Travel,Hotel booking,1683,Expense,Cash
+SIM-001189,2025-03-08,Entertainment,Movie tickets,577,Expense,UPI
+SIM-001159,2025-03-09,Groceries,Fresh produce,203,Expense,UPI
+SIM-001174,2025-03-09,Housing,Home maintenance,1426,Expense,Card
+SIM-001175,2025-03-09,Dining,Cafe,194,Expense,Bank Transfer
+SIM-001163,2025-03-10,Transport,Fuel,174,Expense,Card
+SIM-001187,2025-03-10,Dining,Food delivery,99,Expense,UPI
+SIM-001146,2025-03-11,Transport,Fuel,208,Expense,UPI
+SIM-001178,2025-03-11,Travel,Hotel booking,1051,Expense,UPI
+SIM-001126,2025-03-12,Utilities,Electricity bill,1148,Expense,Card
+SIM-001166,2025-03-12,Entertainment,Event ticket,591,Expense,UPI
+SIM-001192,2025-03-12,Subscriptions,Music subscription,265,Expense,UPI
+SIM-001181,2025-03-13,Personal Care,Salon visit,163,Expense,Auto-debit
+SIM-001188,2025-03-13,Housing,Home maintenance,815,Expense,Bank Transfer
+SIM-001199,2025-03-13,Dining,Restaurant,339,Expense,UPI
+SIM-001125,2025-03-16,Transport,Ride share,63,Expense,UPI
+SIM-001136,2025-03-16,Dining,Cafe,432,Expense,Card
+SIM-001171,2025-03-16,Dining,Restaurant,420,Expense,Card
+SIM-001172,2025-03-16,Personal Care,Wellness,234,Expense,Cash
+SIM-001198,2025-03-16,Groceries,Fresh produce,134,Expense,UPI
+SIM-001131,2025-03-17,Dining,Restaurant,111,Expense,UPI
+SIM-001155,2025-03-17,Personal Care,Salon visit,129,Expense,UPI
+SIM-001138,2025-03-18,Housing,Home maintenance,1152,Expense,Cash
+SIM-001184,2025-03-18,Groceries,Fresh produce,594,Expense,Bank Transfer
+SIM-001129,2025-03-19,Housing,Home maintenance,356,Expense,UPI
+SIM-001150,2025-03-20,Dining,Restaurant,421,Expense,Auto-debit
+SIM-001161,2025-03-20,Dining,Restaurant,567,Expense,Bank Transfer
+SIM-001165,2025-03-20,Entertainment,Event ticket,196,Expense,UPI
+SIM-001132,2025-03-21,Utilities,Electricity bill,997,Expense,Cash
+SIM-001151,2025-03-21,Dining,Food delivery,506,Expense,Bank Transfer
+SIM-001153,2025-03-21,Personal Care,Personal care,111,Expense,Bank Transfer
+SIM-001179,2025-03-21,Dining,Cafe,323,Expense,UPI
+SIM-001152,2025-03-22,Transport,Fuel,259,Expense,Cash
+SIM-001176,2025-03-22,Transport,Ride share,191,Expense,Card
+SIM-001140,2025-03-23,Groceries,Fresh produce,588,Expense,UPI
+SIM-001143,2025-03-23,Groceries,Weekly groceries,201,Expense,Bank Transfer
+SIM-001173,2025-03-23,Housing,Home maintenance,387,Expense,Card
+SIM-001183,2025-03-23,Education,Books and supplies,1782,Expense,Auto-debit
+SIM-001186,2025-03-23,Transport,Metro pass,224,Expense,Auto-debit
+SIM-001145,2025-03-24,Transport,Metro pass,197,Expense,Cash
+SIM-001137,2025-03-25,Shopping,Online purchase,980,Expense,Auto-debit
+SIM-001141,2025-03-25,Entertainment,Digital entertainment,815,Expense,UPI
+SIM-001158,2025-03-25,Dining,Cafe,415,Expense,UPI
+SIM-001168,2025-03-25,Dining,Cafe,295,Expense,Card
+SIM-001170,2025-03-25,Groceries,Household supplies,318,Expense,Cash
+SIM-001197,2025-03-25,Healthcare,Pharmacy,921,Expense,Card
+SIM-001135,2025-03-26,Shopping,Online purchase,1129,Expense,Card
+SIM-001149,2025-03-26,Shopping,Clothing,664,Expense,UPI
+SIM-001182,2025-03-26,Groceries,Weekly groceries,309,Expense,Cash
+SIM-001190,2025-03-26,Dining,Restaurant,319,Expense,Card
+SIM-001196,2025-03-26,Healthcare,Health check-up,238,Expense,Auto-debit
+SIM-001134,2025-03-27,Entertainment,Digital entertainment,908,Expense,Cash
+SIM-001130,2025-03-28,Transport,Ride share,62,Expense,Card
+SIM-001177,2025-03-28,Groceries,Weekly groceries,438,Expense,UPI
+SIM-001139,2025-03-29,Travel,Train ticket,1510,Expense,Card
+SIM-001193,2025-03-29,Transport,Fuel,232,Expense,Cash
+SIM-001167,2025-03-30,Utilities,Water bill,799,Expense,Card
+SIM-001204,2025-04-01,Salary,Monthly simulated salary,40726,Income,Bank Transfer
+SIM-001205,2025-04-01,Freelance,Simulated freelance work,6344,Income,Bank Transfer
+SIM-001280,2025-04-01,Dining,Food delivery,468,Expense,Cash
+SIM-001208,2025-04-02,Groceries,Household supplies,397,Expense,Auto-debit
+SIM-001252,2025-04-02,Entertainment,Digital entertainment,755,Expense,Auto-debit
+SIM-001211,2025-04-03,Utilities,Internet bill,566,Expense,UPI
+SIM-001212,2025-04-03,Transport,Fuel,83,Expense,Auto-debit
+SIM-001220,2025-04-03,Groceries,Household supplies,524,Expense,UPI
+SIM-001264,2025-04-03,Transport,Metro pass,184,Expense,UPI
+SIM-001276,2025-04-03,Transport,Metro pass,182,Expense,Card
+SIM-001209,2025-04-04,Travel,Travel booking,457,Expense,UPI
+SIM-001210,2025-04-04,Groceries,Fresh produce,448,Expense,UPI
+SIM-001231,2025-04-04,Healthcare,Health check-up,186,Expense,UPI
+SIM-001245,2025-04-04,Entertainment,Event ticket,378,Expense,Card
+SIM-001201,2025-04-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001202,2025-04-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001203,2025-04-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001249,2025-04-05,Dining,Restaurant,403,Expense,Cash
+SIM-001214,2025-04-06,Housing,Home maintenance,1392,Expense,UPI
+SIM-001230,2025-04-06,Transport,Fuel,161,Expense,Cash
+SIM-001248,2025-04-06,Shopping,Home goods,266,Expense,UPI
+SIM-001273,2025-04-06,Education,Learning material,1507,Expense,UPI
+SIM-001279,2025-04-06,Housing,Home maintenance,384,Expense,UPI
+SIM-001227,2025-04-07,Entertainment,Digital entertainment,983,Expense,UPI
+SIM-001267,2025-04-07,Transport,Metro pass,276,Expense,UPI
+SIM-001222,2025-04-08,Subscriptions,Cloud subscription,190,Expense,UPI
+SIM-001224,2025-04-08,Dining,Restaurant,598,Expense,Auto-debit
+SIM-001263,2025-04-08,Transport,Fuel,52,Expense,Cash
+SIM-001271,2025-04-08,Personal Care,Wellness,200,Expense,Bank Transfer
+SIM-001250,2025-04-09,Education,Books and supplies,1261,Expense,Card
+SIM-001237,2025-04-10,Shopping,Home goods,1035,Expense,UPI
+SIM-001253,2025-04-10,Transport,Metro pass,259,Expense,Bank Transfer
+SIM-001268,2025-04-10,Subscriptions,Cloud subscription,218,Expense,Cash
+SIM-001235,2025-04-11,Housing,Home maintenance,740,Expense,Cash
+SIM-001254,2025-04-11,Transport,Ride share,314,Expense,UPI
+SIM-001260,2025-04-11,Transport,Fuel,37,Expense,Card
+SIM-001238,2025-04-12,Personal Care,Personal care,255,Expense,Auto-debit
+SIM-001225,2025-04-13,Groceries,Weekly groceries,383,Expense,Card
+SIM-001242,2025-04-13,Dining,Cafe,600,Expense,UPI
+SIM-001266,2025-04-13,Groceries,Fresh produce,554,Expense,UPI
+SIM-001217,2025-04-14,Groceries,Weekly groceries,210,Expense,Card
+SIM-001243,2025-04-14,Utilities,Electricity bill,814,Expense,Card
+SIM-001244,2025-04-14,Groceries,Household supplies,183,Expense,UPI
+SIM-001265,2025-04-14,Healthcare,Pharmacy,760,Expense,Card
+SIM-001270,2025-04-14,Healthcare,Clinic visit,1338,Expense,Cash
+SIM-001247,2025-04-15,Groceries,Fresh produce,150,Expense,Bank Transfer
+SIM-001274,2025-04-15,Dining,Cafe,335,Expense,Bank Transfer
+SIM-001213,2025-04-16,Groceries,Household supplies,459,Expense,UPI
+SIM-001232,2025-04-16,Shopping,Home goods,517,Expense,Bank Transfer
+SIM-001234,2025-04-16,Transport,Metro pass,126,Expense,UPI
+SIM-001246,2025-04-17,Travel,Train ticket,360,Expense,UPI
+SIM-001256,2025-04-17,Personal Care,Personal care,415,Expense,Auto-debit
+SIM-001258,2025-04-17,Transport,Metro pass,326,Expense,Auto-debit
+SIM-001216,2025-04-18,Transport,Metro pass,107,Expense,UPI
+SIM-001259,2025-04-19,Entertainment,Digital entertainment,145,Expense,Card
+SIM-001272,2025-04-19,Healthcare,Clinic visit,879,Expense,Cash
+SIM-001221,2025-04-20,Groceries,Fresh produce,458,Expense,UPI
+SIM-001229,2025-04-20,Dining,Food delivery,393,Expense,Auto-debit
+SIM-001251,2025-04-20,Housing,Home maintenance,676,Expense,UPI
+SIM-001236,2025-04-21,Travel,Train ticket,783,Expense,Card
+SIM-001228,2025-04-22,Education,Course fee,1634,Expense,Auto-debit
+SIM-001261,2025-04-22,Subscriptions,Software plan,150,Expense,Card
+SIM-001269,2025-04-22,Housing,Home maintenance,323,Expense,Card
+SIM-001233,2025-04-23,Transport,Fuel,287,Expense,Auto-debit
+SIM-001239,2025-04-23,Entertainment,Digital entertainment,245,Expense,Card
+SIM-001223,2025-04-24,Transport,Fuel,86,Expense,UPI
+SIM-001240,2025-04-24,Groceries,Weekly groceries,429,Expense,Cash
+SIM-001262,2025-04-24,Transport,Ride share,42,Expense,Card
+SIM-001226,2025-04-25,Housing,Home maintenance,843,Expense,UPI
+SIM-001219,2025-04-26,Groceries,Household supplies,262,Expense,UPI
+SIM-001255,2025-04-26,Dining,Cafe,581,Expense,Card
+SIM-001206,2025-04-27,Groceries,Household supplies,538,Expense,UPI
+SIM-001241,2025-04-27,Education,Course fee,525,Expense,Card
+SIM-001278,2025-04-27,Groceries,Weekly groceries,436,Expense,UPI
+SIM-001275,2025-04-28,Groceries,Household supplies,167,Expense,UPI
+SIM-001277,2025-04-28,Shopping,Online purchase,408,Expense,Card
+SIM-001207,2025-04-29,Transport,Fuel,264,Expense,Cash
+SIM-001215,2025-04-30,Transport,Metro pass,271,Expense,UPI
+SIM-001218,2025-04-30,Personal Care,Salon visit,450,Expense,Card
+SIM-001257,2025-04-30,Utilities,Internet bill,773,Expense,Card
+SIM-001284,2025-05-01,Salary,Monthly simulated salary,41920,Income,Bank Transfer
+SIM-001285,2025-05-01,Freelance,Simulated freelance work,6090,Income,Bank Transfer
+SIM-001313,2025-05-01,Utilities,Water bill,323,Expense,Card
+SIM-001346,2025-05-01,Groceries,Weekly groceries,439,Expense,UPI
+SIM-001318,2025-05-02,Healthcare,Clinic visit,966,Expense,UPI
+SIM-001293,2025-05-03,Shopping,Online purchase,714,Expense,Card
+SIM-001299,2025-05-03,Shopping,Online purchase,1027,Expense,Card
+SIM-001309,2025-05-03,Dining,Restaurant,215,Expense,UPI
+SIM-001322,2025-05-03,Shopping,Online purchase,384,Expense,UPI
+SIM-001287,2025-05-04,Transport,Metro pass,237,Expense,UPI
+SIM-001338,2025-05-04,Housing,Home maintenance,1213,Expense,Card
+SIM-001281,2025-05-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001282,2025-05-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001283,2025-05-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001298,2025-05-05,Groceries,Household supplies,193,Expense,Card
+SIM-001307,2025-05-05,Dining,Food delivery,101,Expense,UPI
+SIM-001353,2025-05-05,Utilities,Electricity bill,1066,Expense,Auto-debit
+SIM-001289,2025-05-06,Dining,Cafe,240,Expense,UPI
+SIM-001291,2025-05-06,Dining,Food delivery,582,Expense,UPI
+SIM-001349,2025-05-06,Housing,Home maintenance,644,Expense,UPI
+SIM-001360,2025-05-06,Groceries,Fresh produce,280,Expense,Auto-debit
+SIM-001297,2025-05-07,Groceries,Household supplies,402,Expense,UPI
+SIM-001334,2025-05-07,Entertainment,Digital entertainment,753,Expense,UPI
+SIM-001359,2025-05-07,Utilities,Internet bill,1167,Expense,UPI
+SIM-001312,2025-05-08,Transport,Fuel,294,Expense,Auto-debit
+SIM-001301,2025-05-09,Subscriptions,Cloud subscription,253,Expense,Cash
+SIM-001332,2025-05-09,Transport,Metro pass,356,Expense,Card
+SIM-001302,2025-05-10,Transport,Ride share,186,Expense,Bank Transfer
+SIM-001288,2025-05-11,Dining,Cafe,117,Expense,Auto-debit
+SIM-001321,2025-05-11,Travel,Travel booking,482,Expense,Card
+SIM-001340,2025-05-11,Entertainment,Event ticket,241,Expense,Bank Transfer
+SIM-001339,2025-05-12,Dining,Restaurant,365,Expense,UPI
+SIM-001348,2025-05-12,Dining,Restaurant,363,Expense,UPI
+SIM-001305,2025-05-13,Groceries,Fresh produce,570,Expense,UPI
+SIM-001296,2025-05-14,Entertainment,Event ticket,337,Expense,Bank Transfer
+SIM-001316,2025-05-14,Groceries,Weekly groceries,410,Expense,Auto-debit
+SIM-001294,2025-05-15,Subscriptions,Music subscription,261,Expense,Cash
+SIM-001354,2025-05-15,Groceries,Household supplies,442,Expense,Card
+SIM-001347,2025-05-16,Groceries,Fresh produce,407,Expense,UPI
+SIM-001310,2025-05-17,Dining,Restaurant,501,Expense,Card
+SIM-001324,2025-05-18,Groceries,Household supplies,142,Expense,Cash
+SIM-001351,2025-05-18,Healthcare,Pharmacy,1227,Expense,UPI
+SIM-001311,2025-05-19,Transport,Metro pass,400,Expense,Cash
+SIM-001323,2025-05-19,Transport,Metro pass,331,Expense,UPI
+SIM-001327,2025-05-19,Dining,Restaurant,107,Expense,Auto-debit
+SIM-001356,2025-05-21,Personal Care,Salon visit,457,Expense,Card
+SIM-001292,2025-05-22,Personal Care,Salon visit,88,Expense,Cash
+SIM-001304,2025-05-22,Shopping,Online purchase,1049,Expense,UPI
+SIM-001357,2025-05-22,Utilities,Internet bill,264,Expense,Card
+SIM-001329,2025-05-23,Entertainment,Movie tickets,318,Expense,Card
+SIM-001344,2025-05-23,Groceries,Weekly groceries,471,Expense,UPI
+SIM-001355,2025-05-23,Healthcare,Clinic visit,128,Expense,Bank Transfer
+SIM-001286,2025-05-24,Housing,Home maintenance,1139,Expense,UPI
+SIM-001303,2025-05-24,Shopping,Clothing,658,Expense,Card
+SIM-001314,2025-05-24,Utilities,Electricity bill,1134,Expense,Card
+SIM-001341,2025-05-24,Shopping,Online purchase,660,Expense,UPI
+SIM-001315,2025-05-25,Transport,Ride share,116,Expense,Bank Transfer
+SIM-001331,2025-05-25,Transport,Ride share,248,Expense,UPI
+SIM-001335,2025-05-25,Transport,Ride share,148,Expense,UPI
+SIM-001350,2025-05-25,Education,Course fee,1697,Expense,UPI
+SIM-001290,2025-05-26,Groceries,Weekly groceries,209,Expense,Bank Transfer
+SIM-001295,2025-05-26,Shopping,Online purchase,248,Expense,Card
+SIM-001326,2025-05-26,Transport,Fuel,236,Expense,UPI
+SIM-001337,2025-05-26,Groceries,Household supplies,460,Expense,Card
+SIM-001352,2025-05-26,Housing,Home maintenance,716,Expense,UPI
+SIM-001358,2025-05-26,Groceries,Household supplies,465,Expense,Card
+SIM-001317,2025-05-27,Shopping,Clothing,931,Expense,Bank Transfer
+SIM-001320,2025-05-27,Entertainment,Event ticket,307,Expense,UPI
+SIM-001336,2025-05-27,Transport,Metro pass,219,Expense,UPI
+SIM-001319,2025-05-28,Housing,Home maintenance,961,Expense,UPI
+SIM-001343,2025-05-28,Utilities,Internet bill,932,Expense,UPI
+SIM-001300,2025-05-29,Personal Care,Personal care,193,Expense,Auto-debit
+SIM-001342,2025-05-29,Transport,Metro pass,250,Expense,Auto-debit
+SIM-001306,2025-05-30,Entertainment,Digital entertainment,106,Expense,UPI
+SIM-001328,2025-05-30,Dining,Food delivery,348,Expense,Card
+SIM-001333,2025-05-30,Groceries,Weekly groceries,395,Expense,UPI
+SIM-001345,2025-05-30,Housing,Home maintenance,1231,Expense,Card
+SIM-001308,2025-05-31,Education,Learning material,589,Expense,Auto-debit
+SIM-001325,2025-05-31,Travel,Train ticket,2369,Expense,Bank Transfer
+SIM-001330,2025-05-31,Dining,Food delivery,598,Expense,UPI
+SIM-001364,2025-06-01,Salary,Monthly simulated salary,54756,Income,Bank Transfer
+SIM-001365,2025-06-01,Freelance,Simulated freelance work,5028,Income,Bank Transfer
+SIM-001372,2025-06-01,Groceries,Household supplies,235,Expense,UPI
+SIM-001381,2025-06-01,Entertainment,Digital entertainment,602,Expense,Cash
+SIM-001389,2025-06-01,Dining,Restaurant,326,Expense,UPI
+SIM-001366,2025-06-03,Dining,Food delivery,101,Expense,Card
+SIM-001384,2025-06-03,Transport,Metro pass,37,Expense,Bank Transfer
+SIM-001397,2025-06-03,Transport,Fuel,282,Expense,Bank Transfer
+SIM-001426,2025-06-03,Groceries,Household supplies,495,Expense,Auto-debit
+SIM-001435,2025-06-03,Groceries,Weekly groceries,273,Expense,Bank Transfer
+SIM-001375,2025-06-04,Transport,Metro pass,200,Expense,Card
+SIM-001385,2025-06-04,Groceries,Fresh produce,283,Expense,UPI
+SIM-001410,2025-06-04,Education,Books and supplies,1342,Expense,Bank Transfer
+SIM-001422,2025-06-04,Healthcare,Clinic visit,672,Expense,Bank Transfer
+SIM-001361,2025-06-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001362,2025-06-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001363,2025-06-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001412,2025-06-05,Housing,Home maintenance,837,Expense,UPI
+SIM-001370,2025-06-06,Shopping,Online purchase,223,Expense,UPI
+SIM-001415,2025-06-06,Housing,Home maintenance,448,Expense,Card
+SIM-001437,2025-06-06,Healthcare,Pharmacy,1291,Expense,Card
+SIM-001378,2025-06-07,Groceries,Household supplies,250,Expense,Card
+SIM-001401,2025-06-07,Entertainment,Movie tickets,463,Expense,Auto-debit
+SIM-001402,2025-06-07,Transport,Metro pass,97,Expense,UPI
+SIM-001405,2025-06-07,Subscriptions,Software plan,315,Expense,Auto-debit
+SIM-001417,2025-06-07,Education,Course fee,1552,Expense,Card
+SIM-001369,2025-06-08,Shopping,Online purchase,539,Expense,UPI
+SIM-001382,2025-06-08,Dining,Food delivery,597,Expense,Bank Transfer
+SIM-001436,2025-06-08,Housing,Home maintenance,1034,Expense,Auto-debit
+SIM-001424,2025-06-09,Housing,Home maintenance,1492,Expense,UPI
+SIM-001439,2025-06-09,Healthcare,Health check-up,1454,Expense,UPI
+SIM-001396,2025-06-10,Housing,Home maintenance,1286,Expense,UPI
+SIM-001407,2025-06-10,Transport,Ride share,234,Expense,UPI
+SIM-001404,2025-06-11,Dining,Food delivery,444,Expense,UPI
+SIM-001416,2025-06-11,Groceries,Weekly groceries,236,Expense,Auto-debit
+SIM-001427,2025-06-11,Groceries,Household supplies,480,Expense,Cash
+SIM-001428,2025-06-11,Personal Care,Personal care,85,Expense,Card
+SIM-001433,2025-06-11,Transport,Ride share,355,Expense,UPI
+SIM-001438,2025-06-11,Transport,Fuel,85,Expense,Card
+SIM-001376,2025-06-12,Groceries,Fresh produce,478,Expense,UPI
+SIM-001434,2025-06-12,Housing,Home maintenance,1276,Expense,Card
+SIM-001380,2025-06-13,Groceries,Fresh produce,580,Expense,Bank Transfer
+SIM-001406,2025-06-13,Subscriptions,Music subscription,190,Expense,Cash
+SIM-001419,2025-06-13,Groceries,Fresh produce,496,Expense,Auto-debit
+SIM-001430,2025-06-13,Housing,Home maintenance,1173,Expense,Bank Transfer
+SIM-001368,2025-06-14,Personal Care,Personal care,270,Expense,Cash
+SIM-001388,2025-06-14,Entertainment,Digital entertainment,355,Expense,UPI
+SIM-001373,2025-06-15,Transport,Metro pass,111,Expense,Bank Transfer
+SIM-001387,2025-06-15,Housing,Home maintenance,1146,Expense,UPI
+SIM-001411,2025-06-15,Utilities,Internet bill,314,Expense,UPI
+SIM-001371,2025-06-16,Healthcare,Health check-up,1315,Expense,Auto-debit
+SIM-001377,2025-06-16,Dining,Food delivery,527,Expense,UPI
+SIM-001399,2025-06-16,Entertainment,Movie tickets,483,Expense,Cash
+SIM-001367,2025-06-17,Dining,Cafe,548,Expense,Bank Transfer
+SIM-001408,2025-06-17,Healthcare,Pharmacy,725,Expense,Card
+SIM-001418,2025-06-17,Shopping,Clothing,983,Expense,UPI
+SIM-001394,2025-06-18,Healthcare,Health check-up,802,Expense,Bank Transfer
+SIM-001379,2025-06-19,Housing,Home maintenance,1216,Expense,UPI
+SIM-001383,2025-06-19,Utilities,Internet bill,820,Expense,Card
+SIM-001403,2025-06-19,Utilities,Internet bill,472,Expense,Auto-debit
+SIM-001409,2025-06-20,Housing,Home maintenance,1427,Expense,Cash
+SIM-001374,2025-06-21,Groceries,Household supplies,327,Expense,Card
+SIM-001414,2025-06-21,Utilities,Electricity bill,289,Expense,UPI
+SIM-001425,2025-06-21,Dining,Restaurant,154,Expense,UPI
+SIM-001431,2025-06-21,Utilities,Internet bill,561,Expense,Card
+SIM-001391,2025-06-22,Groceries,Fresh produce,424,Expense,UPI
+SIM-001395,2025-06-22,Groceries,Weekly groceries,282,Expense,Bank Transfer
+SIM-001413,2025-06-22,Housing,Home maintenance,1078,Expense,UPI
+SIM-001440,2025-06-22,Utilities,Internet bill,985,Expense,UPI
+SIM-001398,2025-06-23,Shopping,Online purchase,1180,Expense,Cash
+SIM-001429,2025-06-24,Subscriptions,Music subscription,319,Expense,Card
+SIM-001390,2025-06-26,Entertainment,Digital entertainment,793,Expense,Cash
+SIM-001400,2025-06-26,Subscriptions,Software plan,170,Expense,Card
+SIM-001423,2025-06-27,Utilities,Internet bill,863,Expense,UPI
+SIM-001432,2025-06-27,Transport,Fuel,317,Expense,Auto-debit
+SIM-001421,2025-06-28,Dining,Food delivery,292,Expense,UPI
+SIM-001386,2025-06-30,Groceries,Fresh produce,442,Expense,UPI
+SIM-001392,2025-06-30,Housing,Home maintenance,1352,Expense,UPI
+SIM-001393,2025-06-30,Dining,Food delivery,473,Expense,UPI
+SIM-001420,2025-06-30,Groceries,Household supplies,387,Expense,UPI
+SIM-001444,2025-07-01,Salary,Monthly simulated salary,36785,Income,Bank Transfer
+SIM-001457,2025-07-01,Utilities,Internet bill,118,Expense,UPI
+SIM-001476,2025-07-01,Groceries,Fresh produce,510,Expense,UPI
+SIM-001449,2025-07-02,Groceries,Weekly groceries,363,Expense,Card
+SIM-001481,2025-07-03,Groceries,Household supplies,164,Expense,Card
+SIM-001445,2025-07-04,Education,Books and supplies,818,Expense,UPI
+SIM-001441,2025-07-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001442,2025-07-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001443,2025-07-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001461,2025-07-06,Subscriptions,Cloud subscription,195,Expense,Cash
+SIM-001468,2025-07-06,Healthcare,Clinic visit,825,Expense,Cash
+SIM-001475,2025-07-06,Entertainment,Movie tickets,399,Expense,Bank Transfer
+SIM-001485,2025-07-07,Housing,Home maintenance,831,Expense,Cash
+SIM-001513,2025-07-07,Housing,Home maintenance,583,Expense,UPI
+SIM-001520,2025-07-07,Groceries,Weekly groceries,560,Expense,UPI
+SIM-001486,2025-07-08,Transport,Fuel,223,Expense,Card
+SIM-001509,2025-07-08,Dining,Cafe,228,Expense,UPI
+SIM-001511,2025-07-08,Subscriptions,Cloud subscription,123,Expense,Cash
+SIM-001503,2025-07-09,Entertainment,Event ticket,576,Expense,Card
+SIM-001504,2025-07-09,Shopping,Online purchase,376,Expense,Cash
+SIM-001447,2025-07-10,Groceries,Household supplies,419,Expense,UPI
+SIM-001466,2025-07-10,Groceries,Fresh produce,331,Expense,Bank Transfer
+SIM-001487,2025-07-10,Transport,Ride share,235,Expense,UPI
+SIM-001514,2025-07-10,Utilities,Electricity bill,739,Expense,Card
+SIM-001519,2025-07-10,Groceries,Weekly groceries,200,Expense,Cash
+SIM-001451,2025-07-12,Transport,Metro pass,102,Expense,Auto-debit
+SIM-001471,2025-07-12,Healthcare,Clinic visit,1101,Expense,UPI
+SIM-001480,2025-07-12,Housing,Home maintenance,1178,Expense,Bank Transfer
+SIM-001499,2025-07-12,Shopping,Online purchase,924,Expense,Cash
+SIM-001505,2025-07-12,Groceries,Household supplies,539,Expense,Cash
+SIM-001467,2025-07-13,Entertainment,Movie tickets,757,Expense,Card
+SIM-001478,2025-07-13,Transport,Metro pass,32,Expense,UPI
+SIM-001488,2025-07-13,Dining,Restaurant,543,Expense,UPI
+SIM-001498,2025-07-13,Transport,Metro pass,367,Expense,UPI
+SIM-001500,2025-07-13,Travel,Train ticket,2973,Expense,UPI
+SIM-001501,2025-07-13,Housing,Home maintenance,987,Expense,Card
+SIM-001506,2025-07-13,Groceries,Household supplies,530,Expense,UPI
+SIM-001517,2025-07-13,Housing,Home maintenance,1222,Expense,Auto-debit
+SIM-001470,2025-07-14,Housing,Home maintenance,1166,Expense,Card
+SIM-001477,2025-07-14,Subscriptions,Music subscription,227,Expense,UPI
+SIM-001479,2025-07-14,Dining,Restaurant,151,Expense,Bank Transfer
+SIM-001448,2025-07-15,Housing,Home maintenance,1235,Expense,UPI
+SIM-001452,2025-07-15,Healthcare,Clinic visit,681,Expense,Auto-debit
+SIM-001492,2025-07-15,Housing,Home maintenance,830,Expense,UPI
+SIM-001493,2025-07-15,Dining,Restaurant,109,Expense,Card
+SIM-001497,2025-07-15,Dining,Food delivery,192,Expense,UPI
+SIM-001508,2025-07-15,Dining,Cafe,487,Expense,Cash
+SIM-001458,2025-07-16,Groceries,Fresh produce,315,Expense,UPI
+SIM-001463,2025-07-16,Housing,Home maintenance,1418,Expense,UPI
+SIM-001455,2025-07-17,Housing,Home maintenance,1091,Expense,Card
+SIM-001456,2025-07-18,Housing,Home maintenance,1152,Expense,Cash
+SIM-001496,2025-07-18,Entertainment,Digital entertainment,406,Expense,UPI
+SIM-001474,2025-07-19,Education,Course fee,378,Expense,Cash
+SIM-001516,2025-07-19,Subscriptions,Software plan,222,Expense,Card
+SIM-001482,2025-07-20,Dining,Food delivery,92,Expense,UPI
+SIM-001491,2025-07-20,Utilities,Electricity bill,1200,Expense,UPI
+SIM-001510,2025-07-20,Personal Care,Wellness,172,Expense,UPI
+SIM-001462,2025-07-22,Groceries,Weekly groceries,327,Expense,UPI
+SIM-001472,2025-07-22,Dining,Cafe,590,Expense,Card
+SIM-001512,2025-07-22,Groceries,Fresh produce,179,Expense,Card
+SIM-001494,2025-07-23,Subscriptions,Music subscription,338,Expense,Card
+SIM-001446,2025-07-24,Education,Books and supplies,1561,Expense,UPI
+SIM-001459,2025-07-24,Housing,Home maintenance,1087,Expense,UPI
+SIM-001465,2025-07-24,Shopping,Home goods,723,Expense,UPI
+SIM-001489,2025-07-24,Dining,Cafe,393,Expense,UPI
+SIM-001518,2025-07-24,Education,Learning material,603,Expense,UPI
+SIM-001454,2025-07-26,Travel,Hotel booking,1670,Expense,Card
+SIM-001515,2025-07-26,Dining,Restaurant,116,Expense,UPI
+SIM-001490,2025-07-27,Subscriptions,Music subscription,349,Expense,Cash
+SIM-001502,2025-07-27,Utilities,Water bill,337,Expense,Card
+SIM-001483,2025-07-28,Transport,Metro pass,135,Expense,Bank Transfer
+SIM-001495,2025-07-28,Housing,Home maintenance,516,Expense,Bank Transfer
+SIM-001450,2025-07-29,Subscriptions,Cloud subscription,132,Expense,UPI
+SIM-001453,2025-07-29,Groceries,Household supplies,261,Expense,Card
+SIM-001460,2025-07-29,Personal Care,Wellness,168,Expense,Auto-debit
+SIM-001484,2025-07-29,Dining,Restaurant,140,Expense,UPI
+SIM-001469,2025-07-30,Transport,Fuel,274,Expense,UPI
+SIM-001464,2025-07-31,Groceries,Household supplies,193,Expense,Card
+SIM-001473,2025-07-31,Groceries,Fresh produce,307,Expense,Bank Transfer
+SIM-001507,2025-07-31,Dining,Cafe,566,Expense,Bank Transfer
+SIM-001524,2025-08-01,Salary,Monthly simulated salary,48620,Income,Bank Transfer
+SIM-001581,2025-08-01,Subscriptions,Music subscription,319,Expense,Auto-debit
+SIM-001564,2025-08-02,Housing,Home maintenance,1237,Expense,Auto-debit
+SIM-001567,2025-08-02,Groceries,Weekly groceries,529,Expense,Bank Transfer
+SIM-001568,2025-08-02,Dining,Restaurant,373,Expense,UPI
+SIM-001560,2025-08-03,Travel,Hotel booking,615,Expense,Auto-debit
+SIM-001571,2025-08-03,Dining,Restaurant,591,Expense,UPI
+SIM-001597,2025-08-04,Housing,Home maintenance,667,Expense,UPI
+SIM-001521,2025-08-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001522,2025-08-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001523,2025-08-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001545,2025-08-05,Groceries,Household supplies,554,Expense,UPI
+SIM-001559,2025-08-06,Shopping,Home goods,565,Expense,Cash
+SIM-001593,2025-08-06,Groceries,Fresh produce,145,Expense,Bank Transfer
+SIM-001539,2025-08-07,Housing,Home maintenance,481,Expense,UPI
+SIM-001549,2025-08-07,Personal Care,Salon visit,244,Expense,UPI
+SIM-001594,2025-08-07,Education,Course fee,931,Expense,Card
+SIM-001537,2025-08-08,Dining,Restaurant,183,Expense,Auto-debit
+SIM-001540,2025-08-08,Utilities,Internet bill,266,Expense,UPI
+SIM-001548,2025-08-08,Utilities,Internet bill,598,Expense,Card
+SIM-001556,2025-08-08,Subscriptions,Cloud subscription,269,Expense,UPI
+SIM-001578,2025-08-08,Groceries,Weekly groceries,196,Expense,UPI
+SIM-001580,2025-08-08,Groceries,Fresh produce,437,Expense,UPI
+SIM-001585,2025-08-08,Healthcare,Health check-up,1071,Expense,UPI
+SIM-001546,2025-08-09,Travel,Train ticket,1685,Expense,Card
+SIM-001547,2025-08-09,Utilities,Internet bill,365,Expense,UPI
+SIM-001584,2025-08-09,Transport,Ride share,157,Expense,Cash
+SIM-001600,2025-08-09,Groceries,Fresh produce,119,Expense,Cash
+SIM-001553,2025-08-10,Travel,Travel booking,2508,Expense,Cash
+SIM-001527,2025-08-11,Housing,Home maintenance,924,Expense,Bank Transfer
+SIM-001569,2025-08-11,Travel,Train ticket,1170,Expense,Auto-debit
+SIM-001572,2025-08-11,Groceries,Fresh produce,101,Expense,UPI
+SIM-001590,2025-08-11,Groceries,Fresh produce,246,Expense,UPI
+SIM-001533,2025-08-12,Education,Books and supplies,1712,Expense,Bank Transfer
+SIM-001566,2025-08-12,Transport,Metro pass,354,Expense,Card
+SIM-001586,2025-08-12,Transport,Metro pass,93,Expense,UPI
+SIM-001551,2025-08-13,Dining,Cafe,267,Expense,Auto-debit
+SIM-001589,2025-08-13,Education,Course fee,1239,Expense,UPI
+SIM-001554,2025-08-14,Utilities,Internet bill,501,Expense,Auto-debit
+SIM-001526,2025-08-15,Groceries,Household supplies,599,Expense,Card
+SIM-001573,2025-08-15,Dining,Restaurant,120,Expense,Auto-debit
+SIM-001532,2025-08-16,Transport,Ride share,211,Expense,Card
+SIM-001574,2025-08-16,Travel,Train ticket,639,Expense,Card
+SIM-001552,2025-08-17,Transport,Metro pass,320,Expense,Card
+SIM-001579,2025-08-17,Transport,Ride share,195,Expense,Card
+SIM-001538,2025-08-18,Housing,Home maintenance,1362,Expense,Bank Transfer
+SIM-001562,2025-08-18,Dining,Restaurant,239,Expense,Card
+SIM-001563,2025-08-18,Healthcare,Health check-up,916,Expense,Card
+SIM-001591,2025-08-18,Groceries,Fresh produce,537,Expense,UPI
+SIM-001570,2025-08-19,Transport,Ride share,361,Expense,UPI
+SIM-001534,2025-08-20,Dining,Restaurant,249,Expense,Card
+SIM-001557,2025-08-20,Groceries,Household supplies,472,Expense,Card
+SIM-001595,2025-08-20,Entertainment,Event ticket,755,Expense,UPI
+SIM-001596,2025-08-20,Transport,Metro pass,239,Expense,UPI
+SIM-001525,2025-08-21,Utilities,Electricity bill,755,Expense,UPI
+SIM-001529,2025-08-21,Shopping,Online purchase,1025,Expense,Card
+SIM-001583,2025-08-21,Groceries,Weekly groceries,159,Expense,Auto-debit
+SIM-001598,2025-08-21,Transport,Ride share,46,Expense,UPI
+SIM-001530,2025-08-22,Housing,Home maintenance,1035,Expense,UPI
+SIM-001555,2025-08-22,Healthcare,Pharmacy,1362,Expense,Bank Transfer
+SIM-001599,2025-08-22,Groceries,Fresh produce,511,Expense,Card
+SIM-001535,2025-08-23,Utilities,Internet bill,751,Expense,UPI
+SIM-001575,2025-08-23,Dining,Restaurant,341,Expense,Cash
+SIM-001531,2025-08-24,Entertainment,Event ticket,277,Expense,UPI
+SIM-001561,2025-08-24,Dining,Food delivery,574,Expense,Card
+SIM-001582,2025-08-24,Healthcare,Clinic visit,952,Expense,Cash
+SIM-001592,2025-08-25,Transport,Metro pass,194,Expense,UPI
+SIM-001543,2025-08-26,Groceries,Fresh produce,374,Expense,Card
+SIM-001558,2025-08-26,Groceries,Household supplies,244,Expense,Card
+SIM-001577,2025-08-26,Dining,Food delivery,571,Expense,UPI
+SIM-001536,2025-08-27,Groceries,Household supplies,134,Expense,Card
+SIM-001588,2025-08-27,Transport,Metro pass,120,Expense,Auto-debit
+SIM-001542,2025-08-28,Housing,Home maintenance,806,Expense,Card
+SIM-001576,2025-08-28,Groceries,Fresh produce,266,Expense,Cash
+SIM-001550,2025-08-29,Utilities,Internet bill,889,Expense,UPI
+SIM-001565,2025-08-29,Housing,Home maintenance,1417,Expense,UPI
+SIM-001587,2025-08-29,Groceries,Fresh produce,177,Expense,UPI
+SIM-001528,2025-08-30,Groceries,Fresh produce,121,Expense,Card
+SIM-001541,2025-08-30,Shopping,Online purchase,275,Expense,Auto-debit
+SIM-001544,2025-08-31,Healthcare,Pharmacy,944,Expense,UPI
+SIM-001604,2025-09-01,Salary,Monthly simulated salary,59121,Income,Bank Transfer
+SIM-001660,2025-09-01,Transport,Metro pass,44,Expense,Cash
+SIM-001676,2025-09-01,Utilities,Internet bill,285,Expense,Card
+SIM-001607,2025-09-02,Utilities,Electricity bill,905,Expense,Bank Transfer
+SIM-001622,2025-09-02,Education,Books and supplies,932,Expense,UPI
+SIM-001651,2025-09-02,Groceries,Weekly groceries,277,Expense,Card
+SIM-001664,2025-09-02,Entertainment,Movie tickets,388,Expense,Bank Transfer
+SIM-001666,2025-09-02,Dining,Cafe,394,Expense,UPI
+SIM-001667,2025-09-02,Dining,Food delivery,146,Expense,UPI
+SIM-001638,2025-09-03,Dining,Food delivery,418,Expense,Cash
+SIM-001657,2025-09-03,Groceries,Weekly groceries,164,Expense,Bank Transfer
+SIM-001675,2025-09-04,Transport,Fuel,203,Expense,Bank Transfer
+SIM-001601,2025-09-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001602,2025-09-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001603,2025-09-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001608,2025-09-05,Education,Course fee,1083,Expense,Auto-debit
+SIM-001618,2025-09-05,Utilities,Internet bill,113,Expense,Cash
+SIM-001637,2025-09-05,Utilities,Internet bill,639,Expense,UPI
+SIM-001612,2025-09-06,Personal Care,Wellness,236,Expense,UPI
+SIM-001642,2025-09-06,Groceries,Weekly groceries,301,Expense,Auto-debit
+SIM-001679,2025-09-06,Personal Care,Salon visit,280,Expense,UPI
+SIM-001631,2025-09-07,Dining,Food delivery,328,Expense,Cash
+SIM-001640,2025-09-07,Shopping,Clothing,989,Expense,Bank Transfer
+SIM-001646,2025-09-07,Dining,Restaurant,405,Expense,UPI
+SIM-001648,2025-09-07,Groceries,Household supplies,351,Expense,UPI
+SIM-001628,2025-09-08,Shopping,Online purchase,405,Expense,UPI
+SIM-001672,2025-09-08,Dining,Food delivery,516,Expense,Bank Transfer
+SIM-001619,2025-09-09,Personal Care,Salon visit,484,Expense,UPI
+SIM-001626,2025-09-09,Entertainment,Event ticket,322,Expense,UPI
+SIM-001641,2025-09-09,Groceries,Household supplies,219,Expense,Bank Transfer
+SIM-001655,2025-09-10,Dining,Cafe,302,Expense,Cash
+SIM-001673,2025-09-10,Housing,Home maintenance,1399,Expense,UPI
+SIM-001621,2025-09-11,Dining,Food delivery,149,Expense,UPI
+SIM-001636,2025-09-12,Transport,Ride share,320,Expense,Bank Transfer
+SIM-001645,2025-09-12,Utilities,Internet bill,857,Expense,UPI
+SIM-001647,2025-09-12,Healthcare,Clinic visit,1121,Expense,UPI
+SIM-001669,2025-09-12,Groceries,Household supplies,275,Expense,UPI
+SIM-001605,2025-09-13,Transport,Ride share,222,Expense,Cash
+SIM-001606,2025-09-13,Dining,Restaurant,160,Expense,Auto-debit
+SIM-001634,2025-09-13,Shopping,Home goods,809,Expense,UPI
+SIM-001659,2025-09-13,Shopping,Online purchase,487,Expense,Card
+SIM-001625,2025-09-14,Travel,Travel booking,695,Expense,Bank Transfer
+SIM-001643,2025-09-14,Healthcare,Clinic visit,643,Expense,Auto-debit
+SIM-001644,2025-09-14,Transport,Metro pass,258,Expense,UPI
+SIM-001650,2025-09-15,Entertainment,Movie tickets,400,Expense,Auto-debit
+SIM-001624,2025-09-16,Groceries,Household supplies,173,Expense,Card
+SIM-001617,2025-09-17,Groceries,Household supplies,136,Expense,Cash
+SIM-001674,2025-09-17,Groceries,Household supplies,227,Expense,UPI
+SIM-001633,2025-09-18,Travel,Hotel booking,1185,Expense,UPI
+SIM-001668,2025-09-18,Transport,Fuel,274,Expense,UPI
+SIM-001677,2025-09-18,Shopping,Clothing,600,Expense,Card
+SIM-001632,2025-09-19,Dining,Food delivery,419,Expense,Auto-debit
+SIM-001654,2025-09-19,Travel,Train ticket,366,Expense,Card
+SIM-001663,2025-09-19,Dining,Restaurant,137,Expense,UPI
+SIM-001671,2025-09-19,Transport,Ride share,306,Expense,UPI
+SIM-001616,2025-09-20,Personal Care,Wellness,177,Expense,UPI
+SIM-001623,2025-09-20,Groceries,Household supplies,526,Expense,UPI
+SIM-001662,2025-09-20,Groceries,Weekly groceries,317,Expense,UPI
+SIM-001680,2025-09-20,Healthcare,Pharmacy,721,Expense,UPI
+SIM-001615,2025-09-21,Subscriptions,Cloud subscription,383,Expense,Card
+SIM-001630,2025-09-21,Groceries,Fresh produce,462,Expense,Cash
+SIM-001649,2025-09-21,Shopping,Online purchase,464,Expense,UPI
+SIM-001611,2025-09-22,Groceries,Fresh produce,481,Expense,UPI
+SIM-001678,2025-09-22,Transport,Metro pass,151,Expense,UPI
+SIM-001614,2025-09-23,Dining,Cafe,253,Expense,Card
+SIM-001639,2025-09-23,Housing,Home maintenance,1166,Expense,UPI
+SIM-001658,2025-09-23,Shopping,Clothing,410,Expense,UPI
+SIM-001613,2025-09-24,Groceries,Weekly groceries,404,Expense,UPI
+SIM-001627,2025-09-24,Utilities,Electricity bill,465,Expense,Cash
+SIM-001652,2025-09-24,Transport,Ride share,40,Expense,Auto-debit
+SIM-001609,2025-09-25,Subscriptions,Cloud subscription,356,Expense,Card
+SIM-001656,2025-09-25,Groceries,Fresh produce,339,Expense,Auto-debit
+SIM-001629,2025-09-27,Groceries,Fresh produce,455,Expense,UPI
+SIM-001610,2025-09-28,Entertainment,Digital entertainment,620,Expense,Cash
+SIM-001635,2025-09-28,Groceries,Household supplies,341,Expense,Auto-debit
+SIM-001653,2025-09-28,Dining,Restaurant,575,Expense,Bank Transfer
+SIM-001670,2025-09-28,Subscriptions,Music subscription,332,Expense,UPI
+SIM-001661,2025-09-29,Groceries,Fresh produce,566,Expense,Card
+SIM-001665,2025-09-29,Groceries,Household supplies,359,Expense,UPI
+SIM-001620,2025-09-30,Transport,Metro pass,123,Expense,UPI
+SIM-001684,2025-10-01,Salary,Monthly simulated salary,41454,Income,Bank Transfer
+SIM-001731,2025-10-01,Transport,Ride share,311,Expense,UPI
+SIM-001736,2025-10-02,Groceries,Household supplies,580,Expense,Card
+SIM-001750,2025-10-02,Personal Care,Personal care,397,Expense,Cash
+SIM-001689,2025-10-03,Groceries,Fresh produce,581,Expense,Card
+SIM-001732,2025-10-04,Entertainment,Movie tickets,903,Expense,Card
+SIM-001741,2025-10-04,Groceries,Household supplies,468,Expense,UPI
+SIM-001681,2025-10-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001682,2025-10-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001683,2025-10-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001697,2025-10-05,Dining,Food delivery,463,Expense,Bank Transfer
+SIM-001716,2025-10-05,Transport,Fuel,56,Expense,UPI
+SIM-001718,2025-10-06,Healthcare,Health check-up,648,Expense,Bank Transfer
+SIM-001725,2025-10-07,Groceries,Weekly groceries,597,Expense,UPI
+SIM-001751,2025-10-07,Entertainment,Event ticket,177,Expense,Card
+SIM-001693,2025-10-08,Groceries,Weekly groceries,431,Expense,Bank Transfer
+SIM-001700,2025-10-08,Dining,Restaurant,523,Expense,Cash
+SIM-001705,2025-10-08,Healthcare,Clinic visit,987,Expense,Auto-debit
+SIM-001747,2025-10-08,Utilities,Water bill,892,Expense,Cash
+SIM-001753,2025-10-08,Groceries,Weekly groceries,556,Expense,Cash
+SIM-001757,2025-10-08,Housing,Home maintenance,738,Expense,Cash
+SIM-001692,2025-10-09,Transport,Ride share,390,Expense,UPI
+SIM-001707,2025-10-09,Groceries,Fresh produce,549,Expense,Auto-debit
+SIM-001710,2025-10-09,Entertainment,Digital entertainment,933,Expense,Card
+SIM-001717,2025-10-09,Dining,Cafe,136,Expense,UPI
+SIM-001688,2025-10-10,Entertainment,Event ticket,297,Expense,UPI
+SIM-001709,2025-10-10,Transport,Metro pass,293,Expense,UPI
+SIM-001715,2025-10-10,Groceries,Fresh produce,219,Expense,UPI
+SIM-001744,2025-10-10,Housing,Home maintenance,482,Expense,Auto-debit
+SIM-001699,2025-10-11,Subscriptions,Software plan,100,Expense,Auto-debit
+SIM-001714,2025-10-11,Dining,Cafe,462,Expense,Bank Transfer
+SIM-001726,2025-10-11,Education,Learning material,1383,Expense,Bank Transfer
+SIM-001701,2025-10-12,Dining,Cafe,389,Expense,Cash
+SIM-001719,2025-10-12,Shopping,Clothing,394,Expense,UPI
+SIM-001722,2025-10-12,Utilities,Internet bill,417,Expense,UPI
+SIM-001758,2025-10-12,Healthcare,Pharmacy,1114,Expense,UPI
+SIM-001702,2025-10-14,Entertainment,Movie tickets,956,Expense,Card
+SIM-001754,2025-10-15,Travel,Travel booking,2148,Expense,UPI
+SIM-001760,2025-10-15,Housing,Home maintenance,408,Expense,Bank Transfer
+SIM-001740,2025-10-16,Housing,Home maintenance,1292,Expense,Auto-debit
+SIM-001752,2025-10-16,Groceries,Household supplies,316,Expense,UPI
+SIM-001724,2025-10-17,Transport,Metro pass,35,Expense,Card
+SIM-001733,2025-10-17,Groceries,Weekly groceries,371,Expense,Cash
+SIM-001694,2025-10-18,Housing,Home maintenance,699,Expense,Cash
+SIM-001703,2025-10-18,Housing,Home maintenance,887,Expense,Card
+SIM-001706,2025-10-18,Transport,Metro pass,216,Expense,Card
+SIM-001708,2025-10-18,Healthcare,Clinic visit,193,Expense,Card
+SIM-001690,2025-10-19,Dining,Cafe,101,Expense,UPI
+SIM-001735,2025-10-19,Subscriptions,Music subscription,115,Expense,Bank Transfer
+SIM-001746,2025-10-19,Personal Care,Wellness,485,Expense,Auto-debit
+SIM-001713,2025-10-20,Utilities,Internet bill,280,Expense,UPI
+SIM-001728,2025-10-20,Transport,Fuel,365,Expense,UPI
+SIM-001738,2025-10-20,Groceries,Fresh produce,371,Expense,Card
+SIM-001755,2025-10-20,Dining,Cafe,263,Expense,Cash
+SIM-001711,2025-10-21,Housing,Home maintenance,480,Expense,Bank Transfer
+SIM-001742,2025-10-21,Groceries,Household supplies,545,Expense,Bank Transfer
+SIM-001743,2025-10-21,Subscriptions,Software plan,399,Expense,Auto-debit
+SIM-001691,2025-10-22,Personal Care,Salon visit,339,Expense,Cash
+SIM-001729,2025-10-24,Healthcare,Pharmacy,638,Expense,Bank Transfer
+SIM-001745,2025-10-24,Dining,Restaurant,546,Expense,UPI
+SIM-001704,2025-10-25,Transport,Fuel,132,Expense,UPI
+SIM-001723,2025-10-25,Education,Learning material,486,Expense,Cash
+SIM-001686,2025-10-26,Personal Care,Wellness,385,Expense,Bank Transfer
+SIM-001687,2025-10-26,Transport,Fuel,158,Expense,Bank Transfer
+SIM-001698,2025-10-26,Groceries,Weekly groceries,109,Expense,Card
+SIM-001720,2025-10-26,Dining,Cafe,122,Expense,Card
+SIM-001737,2025-10-26,Transport,Ride share,365,Expense,Bank Transfer
+SIM-001727,2025-10-27,Dining,Cafe,436,Expense,Card
+SIM-001730,2025-10-27,Utilities,Internet bill,290,Expense,Card
+SIM-001734,2025-10-27,Housing,Home maintenance,510,Expense,Auto-debit
+SIM-001721,2025-10-28,Groceries,Household supplies,165,Expense,Card
+SIM-001748,2025-10-28,Shopping,Clothing,498,Expense,UPI
+SIM-001756,2025-10-28,Shopping,Clothing,1026,Expense,Card
+SIM-001685,2025-10-29,Education,Books and supplies,751,Expense,UPI
+SIM-001695,2025-10-29,Groceries,Weekly groceries,229,Expense,UPI
+SIM-001696,2025-10-29,Groceries,Fresh produce,567,Expense,UPI
+SIM-001749,2025-10-29,Groceries,Household supplies,577,Expense,Auto-debit
+SIM-001739,2025-10-30,Personal Care,Wellness,367,Expense,UPI
+SIM-001712,2025-10-31,Dining,Cafe,115,Expense,Card
+SIM-001759,2025-10-31,Personal Care,Wellness,153,Expense,Bank Transfer
+SIM-001764,2025-11-01,Salary,Monthly simulated salary,57127,Income,Bank Transfer
+SIM-001783,2025-11-01,Subscriptions,Music subscription,389,Expense,UPI
+SIM-001818,2025-11-02,Utilities,Internet bill,912,Expense,Auto-debit
+SIM-001835,2025-11-02,Utilities,Water bill,602,Expense,UPI
+SIM-001771,2025-11-03,Transport,Ride share,268,Expense,Cash
+SIM-001807,2025-11-03,Housing,Home maintenance,621,Expense,Card
+SIM-001794,2025-11-04,Groceries,Weekly groceries,584,Expense,Card
+SIM-001833,2025-11-04,Subscriptions,Software plan,352,Expense,Bank Transfer
+SIM-001834,2025-11-04,Groceries,Household supplies,384,Expense,UPI
+SIM-001761,2025-11-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001762,2025-11-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001763,2025-11-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001796,2025-11-05,Groceries,Weekly groceries,521,Expense,Card
+SIM-001815,2025-11-05,Groceries,Weekly groceries,592,Expense,UPI
+SIM-001820,2025-11-05,Utilities,Water bill,114,Expense,Card
+SIM-001791,2025-11-06,Housing,Home maintenance,545,Expense,UPI
+SIM-001778,2025-11-07,Healthcare,Pharmacy,235,Expense,Bank Transfer
+SIM-001816,2025-11-07,Dining,Cafe,205,Expense,Bank Transfer
+SIM-001785,2025-11-08,Healthcare,Health check-up,758,Expense,UPI
+SIM-001793,2025-11-08,Groceries,Fresh produce,339,Expense,Bank Transfer
+SIM-001812,2025-11-08,Utilities,Internet bill,601,Expense,Card
+SIM-001821,2025-11-08,Healthcare,Clinic visit,1259,Expense,UPI
+SIM-001777,2025-11-09,Dining,Food delivery,508,Expense,Cash
+SIM-001804,2025-11-10,Housing,Home maintenance,974,Expense,UPI
+SIM-001840,2025-11-10,Groceries,Fresh produce,233,Expense,Card
+SIM-001773,2025-11-11,Housing,Home maintenance,721,Expense,Card
+SIM-001776,2025-11-11,Housing,Home maintenance,930,Expense,Bank Transfer
+SIM-001817,2025-11-11,Housing,Home maintenance,1045,Expense,Bank Transfer
+SIM-001822,2025-11-11,Dining,Food delivery,377,Expense,UPI
+SIM-001770,2025-11-12,Shopping,Online purchase,168,Expense,Cash
+SIM-001829,2025-11-12,Subscriptions,Software plan,328,Expense,Cash
+SIM-001813,2025-11-13,Groceries,Fresh produce,205,Expense,Card
+SIM-001814,2025-11-13,Groceries,Fresh produce,434,Expense,UPI
+SIM-001831,2025-11-14,Groceries,Weekly groceries,512,Expense,Cash
+SIM-001775,2025-11-15,Utilities,Water bill,274,Expense,Cash
+SIM-001779,2025-11-15,Transport,Ride share,58,Expense,UPI
+SIM-001789,2025-11-15,Groceries,Fresh produce,177,Expense,UPI
+SIM-001769,2025-11-16,Healthcare,Clinic visit,575,Expense,Cash
+SIM-001839,2025-11-16,Personal Care,Wellness,273,Expense,Card
+SIM-001827,2025-11-17,Healthcare,Clinic visit,319,Expense,UPI
+SIM-001800,2025-11-18,Personal Care,Personal care,119,Expense,Card
+SIM-001808,2025-11-18,Housing,Home maintenance,772,Expense,Cash
+SIM-001772,2025-11-19,Transport,Ride share,324,Expense,UPI
+SIM-001780,2025-11-19,Utilities,Electricity bill,398,Expense,Card
+SIM-001790,2025-11-19,Transport,Fuel,193,Expense,Cash
+SIM-001799,2025-11-19,Dining,Restaurant,382,Expense,UPI
+SIM-001801,2025-11-19,Housing,Home maintenance,617,Expense,Card
+SIM-001830,2025-11-19,Groceries,Weekly groceries,370,Expense,UPI
+SIM-001806,2025-11-20,Personal Care,Wellness,180,Expense,UPI
+SIM-001828,2025-11-20,Transport,Fuel,394,Expense,Bank Transfer
+SIM-001786,2025-11-21,Dining,Cafe,462,Expense,Cash
+SIM-001809,2025-11-21,Shopping,Clothing,790,Expense,UPI
+SIM-001811,2025-11-21,Groceries,Fresh produce,366,Expense,Cash
+SIM-001819,2025-11-21,Personal Care,Salon visit,169,Expense,Cash
+SIM-001788,2025-11-22,Housing,Home maintenance,1028,Expense,UPI
+SIM-001792,2025-11-22,Shopping,Clothing,1156,Expense,Card
+SIM-001803,2025-11-22,Transport,Ride share,33,Expense,Cash
+SIM-001825,2025-11-23,Utilities,Water bill,739,Expense,Bank Transfer
+SIM-001768,2025-11-24,Transport,Fuel,254,Expense,Bank Transfer
+SIM-001802,2025-11-24,Shopping,Online purchase,976,Expense,UPI
+SIM-001838,2025-11-24,Transport,Metro pass,32,Expense,Bank Transfer
+SIM-001765,2025-11-25,Transport,Ride share,73,Expense,UPI
+SIM-001787,2025-11-25,Utilities,Internet bill,616,Expense,UPI
+SIM-001797,2025-11-25,Groceries,Weekly groceries,370,Expense,UPI
+SIM-001798,2025-11-25,Shopping,Clothing,611,Expense,Auto-debit
+SIM-001805,2025-11-25,Shopping,Online purchase,808,Expense,UPI
+SIM-001826,2025-11-25,Subscriptions,Cloud subscription,252,Expense,UPI
+SIM-001774,2025-11-26,Dining,Restaurant,329,Expense,UPI
+SIM-001784,2025-11-26,Shopping,Clothing,740,Expense,Card
+SIM-001795,2025-11-26,Transport,Fuel,226,Expense,Bank Transfer
+SIM-001766,2025-11-27,Groceries,Household supplies,486,Expense,Card
+SIM-001781,2025-11-27,Transport,Metro pass,291,Expense,UPI
+SIM-001810,2025-11-27,Shopping,Home goods,141,Expense,UPI
+SIM-001837,2025-11-27,Housing,Home maintenance,1188,Expense,Card
+SIM-001767,2025-11-28,Transport,Fuel,222,Expense,Card
+SIM-001782,2025-11-29,Groceries,Household supplies,493,Expense,Auto-debit
+SIM-001823,2025-11-29,Personal Care,Personal care,280,Expense,UPI
+SIM-001824,2025-11-29,Dining,Food delivery,322,Expense,Card
+SIM-001832,2025-11-30,Travel,Hotel booking,1695,Expense,UPI
+SIM-001836,2025-11-30,Groceries,Household supplies,284,Expense,Auto-debit
+SIM-001844,2025-12-01,Salary,Monthly simulated salary,56495,Income,Bank Transfer
+SIM-001858,2025-12-01,Healthcare,Clinic visit,994,Expense,UPI
+SIM-001909,2025-12-01,Dining,Food delivery,116,Expense,Cash
+SIM-001856,2025-12-02,Groceries,Fresh produce,158,Expense,Card
+SIM-001886,2025-12-02,Transport,Ride share,69,Expense,Bank Transfer
+SIM-001900,2025-12-02,Groceries,Fresh produce,183,Expense,UPI
+SIM-001910,2025-12-02,Housing,Home maintenance,1089,Expense,Cash
+SIM-001850,2025-12-03,Education,Course fee,290,Expense,UPI
+SIM-001854,2025-12-03,Groceries,Household supplies,444,Expense,Card
+SIM-001898,2025-12-03,Utilities,Electricity bill,785,Expense,Cash
+SIM-001907,2025-12-03,Shopping,Clothing,272,Expense,UPI
+SIM-001912,2025-12-03,Utilities,Internet bill,1197,Expense,Card
+SIM-001867,2025-12-04,Healthcare,Pharmacy,244,Expense,Cash
+SIM-001905,2025-12-04,Housing,Home maintenance,414,Expense,UPI
+SIM-001841,2025-12-05,Housing,Monthly rent,18000,Expense,Auto-debit
+SIM-001842,2025-12-05,Subscriptions,Music subscription,199,Expense,Auto-debit
+SIM-001843,2025-12-05,Utilities,Internet bill,999,Expense,Auto-debit
+SIM-001853,2025-12-06,Housing,Home maintenance,339,Expense,Card
+SIM-001859,2025-12-07,Healthcare,Health check-up,866,Expense,Bank Transfer
+SIM-001885,2025-12-07,Shopping,Home goods,249,Expense,UPI
+SIM-001894,2025-12-07,Transport,Ride share,132,Expense,UPI
+SIM-001913,2025-12-07,Transport,Ride share,389,Expense,UPI
+SIM-001849,2025-12-08,Transport,Ride share,38,Expense,UPI
+SIM-001901,2025-12-08,Groceries,Household supplies,569,Expense,Auto-debit
+SIM-001869,2025-12-09,Housing,Home maintenance,1449,Expense,UPI
+SIM-001874,2025-12-09,Utilities,Water bill,1028,Expense,UPI
+SIM-001877,2025-12-09,Healthcare,Clinic visit,1349,Expense,Cash
+SIM-001917,2025-12-09,Housing,Home maintenance,1424,Expense,Card
+SIM-001868,2025-12-10,Entertainment,Movie tickets,337,Expense,UPI
+SIM-001903,2025-12-10,Transport,Ride share,162,Expense,Auto-debit
+SIM-001918,2025-12-11,Groceries,Fresh produce,461,Expense,UPI
+SIM-001920,2025-12-11,Groceries,Fresh produce,523,Expense,Auto-debit
+SIM-001861,2025-12-12,Groceries,Weekly groceries,569,Expense,UPI
+SIM-001892,2025-12-12,Housing,Home maintenance,631,Expense,Card
+SIM-001893,2025-12-12,Dining,Restaurant,181,Expense,Card
+SIM-001902,2025-12-12,Dining,Restaurant,170,Expense,UPI
+SIM-001879,2025-12-13,Personal Care,Salon visit,255,Expense,Card
+SIM-001911,2025-12-13,Groceries,Fresh produce,485,Expense,UPI
+SIM-001845,2025-12-14,Housing,Home maintenance,616,Expense,UPI
+SIM-001870,2025-12-14,Groceries,Weekly groceries,446,Expense,UPI
+SIM-001880,2025-12-14,Transport,Ride share,113,Expense,Cash
+SIM-001906,2025-12-14,Groceries,Household supplies,452,Expense,Card
+SIM-001862,2025-12-15,Utilities,Internet bill,387,Expense,Auto-debit
+SIM-001864,2025-12-15,Subscriptions,Cloud subscription,99,Expense,UPI
+SIM-001871,2025-12-15,Groceries,Weekly groceries,420,Expense,Card
+SIM-001878,2025-12-15,Dining,Food delivery,585,Expense,Cash
+SIM-001896,2025-12-15,Utilities,Electricity bill,616,Expense,Auto-debit
+SIM-001866,2025-12-16,Utilities,Internet bill,369,Expense,UPI
+SIM-001875,2025-12-16,Transport,Fuel,46,Expense,UPI
+SIM-001888,2025-12-16,Transport,Fuel,144,Expense,UPI
+SIM-001899,2025-12-16,Shopping,Home goods,723,Expense,Cash
+SIM-001882,2025-12-17,Groceries,Household supplies,294,Expense,Cash
+SIM-001847,2025-12-20,Subscriptions,Software plan,364,Expense,UPI
+SIM-001915,2025-12-20,Personal Care,Wellness,131,Expense,Bank Transfer
+SIM-001916,2025-12-20,Shopping,Online purchase,941,Expense,Auto-debit
+SIM-001846,2025-12-21,Groceries,Weekly groceries,385,Expense,Bank Transfer
+SIM-001895,2025-12-21,Transport,Fuel,72,Expense,Card
+SIM-001904,2025-12-21,Education,Learning material,1687,Expense,Card
+SIM-001865,2025-12-22,Utilities,Electricity bill,294,Expense,UPI
+SIM-001876,2025-12-22,Travel,Train ticket,315,Expense,UPI
+SIM-001884,2025-12-23,Housing,Home maintenance,1150,Expense,Card
+SIM-001914,2025-12-23,Education,Books and supplies,1823,Expense,Auto-debit
+SIM-001863,2025-12-24,Transport,Metro pass,205,Expense,UPI
+SIM-001872,2025-12-24,Dining,Cafe,461,Expense,Auto-debit
+SIM-001873,2025-12-24,Entertainment,Movie tickets,825,Expense,Cash
+SIM-001891,2025-12-24,Groceries,Fresh produce,272,Expense,Card
+SIM-001855,2025-12-25,Housing,Home maintenance,1321,Expense,Cash
+SIM-001848,2025-12-26,Utilities,Internet bill,465,Expense,Bank Transfer
+SIM-001851,2025-12-26,Groceries,Weekly groceries,161,Expense,Card
+SIM-001883,2025-12-26,Housing,Home maintenance,406,Expense,Cash
+SIM-001908,2025-12-26,Groceries,Household supplies,331,Expense,UPI
+SIM-001889,2025-12-27,Groceries,Fresh produce,439,Expense,Card
+SIM-001919,2025-12-27,Dining,Cafe,115,Expense,Cash
+SIM-001852,2025-12-28,Utilities,Internet bill,175,Expense,Bank Transfer
+SIM-001860,2025-12-28,Transport,Ride share,388,Expense,Auto-debit
+SIM-001890,2025-12-29,Housing,Home maintenance,337,Expense,Bank Transfer
+SIM-001897,2025-12-30,Transport,Fuel,333,Expense,UPI
+SIM-001857,2025-12-31,Dining,Restaurant,458,Expense,UPI
+SIM-001881,2025-12-31,Utilities,Water bill,509,Expense,Card
+SIM-001887,2025-12-31,Groceries,Fresh produce,330,Expense,Auto-debit

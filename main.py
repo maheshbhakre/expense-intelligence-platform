@@ -1,63 +1,51 @@
+"""Clean the default transaction CSV and report data quality and summary metrics."""
+
+from __future__ import annotations
+
+from pathlib import Path
+
 import pandas as pd
-import os
 
-# Ensure directories exist
-os.makedirs("data", exist_ok=True)
+from src.expense_tracker.analytics import category_spending, monthly_cash_flow, summarize_transactions
+from src.expense_tracker.data_cleaning import clean_transactions, read_transactions
 
-# Load data
-df = pd.read_csv("data/expenses.csv")
+ROOT = Path(__file__).resolve().parent
+RAW_CANDIDATES = (
+    ROOT / "data" / "raw" / "transactions.csv",
+    ROOT / "data" / "expenses.csv",
+)
+PROCESSED_PATH = ROOT / "data" / "processed" / "transactions_cleaned.csv"
+LEGACY_PROCESSED_PATH = ROOT / "data" / "cleaned_expenses.csv"
 
-print("📌 Raw Data Preview:")
-print(df.head())
 
-# -------------------------------
-# CLEANING
-# -------------------------------
-df.drop_duplicates(inplace=True)
-df.dropna(subset=['Date', 'Amount', 'Category', 'Type'], inplace=True)
+def process_default_dataset() -> tuple[pd.DataFrame, dict[str, object]]:
+    """Clean the generated dataset, falling back to the original legacy CSV."""
+    source = next((path for path in RAW_CANDIDATES if path.exists()), None)
+    if source is None:
+        raise FileNotFoundError(
+            "No input transactions found. Run `python generate_data.py` first."
+        )
+    raw = read_transactions(source)
+    cleaned, quality = clean_transactions(raw)
+    PROCESSED_PATH.parent.mkdir(parents=True, exist_ok=True)
+    cleaned.to_csv(PROCESSED_PATH, index=False)
+    cleaned.to_csv(LEGACY_PROCESSED_PATH, index=False)
+    return cleaned, quality
 
-df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
-df['Amount'] = pd.to_numeric(df['Amount'], errors='coerce')
 
-df['Category'] = df['Category'].str.strip().str.title()
-df['Type'] = df['Type'].str.strip().str.title()
+def main() -> None:
+    cleaned, quality = process_default_dataset()
+    print(f"Loaded {quality['input_rows']:,} rows; retained {quality['valid_rows']:,}.")
+    print(f"Removed {quality['removed_rows']:,} rows: {quality['removal_reasons'] or 'none'}")
+    print(f"Saved cleaned data to {PROCESSED_PATH}")
+    print("\nFinancial summary:")
+    for label, value in summarize_transactions(cleaned).items():
+        print(f"  {label}: {value:,.2f}" if isinstance(value, float) else f"  {label}: {value:,}")
+    print("\nExpense by category:")
+    print(category_spending(cleaned).to_string(index=False))
+    print("\nMonthly cash flow:")
+    print(monthly_cash_flow(cleaned).to_string(index=False))
 
-# -------------------------------
-# FEATURE ENGINEERING
-# -------------------------------
-df['Month'] = df['Date'].dt.month_name()
-df['Month_Num'] = df['Date'].dt.month
-df['Weekday'] = df['Date'].dt.day_name()
 
-# Save cleaned data
-df.to_csv("data/cleaned_expenses.csv", index=False)
-
-print("\n✅ Cleaned Data Saved")
-
-# -------------------------------
-# ANALYSIS
-# -------------------------------
-expense_df = df[df['Type'] == 'Expense']
-
-category_spend = expense_df.groupby('Category')['Amount'].sum()
-monthly_spend = expense_df.groupby('Month_Num')['Amount'].sum()
-
-print("\n📊 Category Spending:")
-print(category_spend)
-
-print("\n📈 Monthly Spending:")
-print(monthly_spend)
-
-# -------------------------------
-# INSIGHTS
-# -------------------------------
-print("\n💡 Insights:")
-
-top_category = category_spend.idxmax()
-top_amount = category_spend.max()
-
-print(f"👉 Highest spending category: {top_category} (₹{top_amount})")
-
-if len(monthly_spend) > 1:
-    trend = "increasing" if monthly_spend.iloc[-1] > monthly_spend.iloc[0] else "decreasing"
-    print(f"👉 Spending trend is {trend}")
+if __name__ == "__main__":
+    main()

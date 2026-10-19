@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+.pytest_cache/
+.streamlit/secrets.toml
+data/budgets.json
+data/budgets.json.tmp
